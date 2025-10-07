@@ -1,0 +1,26 @@
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\bin\Debug\TestPrint1.exe.config
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\bin\Debug\TestPrint1.exe
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\bin\Debug\TestPrint1.pdb
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\BasicIppPrint.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\BasicIppPrint.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\BasicIppPrint.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\TestPrint1.exe
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\TestPrint1.pdb
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\bin\Debug\BasicIppPrint.exe.config
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\bin\Debug\BasicIppPrint.exe
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\bin\Debug\BasicIppPrint.pdb
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.exe
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.pdb
+H:\Book\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\bin\Debug\BasicIppPrint.exe.config
+H:\Book\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\bin\Debug\BasicIppPrint.exe
+H:\Book\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\bin\Debug\BasicIppPrint.pdb
+H:\Book\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.csproj.AssemblyReference.cache
+H:\Book\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.csproj.CoreCompileInputs.cache
+H:\Book\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.exe
+H:\Book\IPP Book\Chapter 5 IPP Print\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.pdb
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\obj\Debug\BasicIppPrint.csproj.CoreCompileInputs.cache

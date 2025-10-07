@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\Apress\\Chap2Code\\Code\\WinRtIppTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WinRtIppTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D66B04E-11E5-4630-BE49-05257E0EA9EB}|WinRtIppTest\\WinRtIppTest.csproj|d:\\backup\\ipp book\\apress\\chap2code\\code\\winrtipptest\\winrtipptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D66B04E-11E5-4630-BE49-05257E0EA9EB}|WinRtIppTest\\WinRtIppTest.csproj|solutionrelative:winrtipptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D66B04E-11E5-4630-BE49-05257E0EA9EB}|WinRtIppTest\\WinRtIppTest.csproj|d:\\backup\\ipp book\\apress\\chap2code\\code\\winrtipptest\\winrtipptest\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Apress\\Chap2Code\\Code\\WinRtIppTest\\WinRtIppTest\\Program.cs",
+              "RelativeDocumentMoniker": "WinRtIppTest\\Program.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Apress\\Chap2Code\\Code\\WinRtIppTest\\WinRtIppTest\\Program.cs",
+              "RelativeToolTip": "WinRtIppTest\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:10:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinRtIppTest",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Apress\\Chap2Code\\Code\\WinRtIppTest\\WinRtIppTest\\WinRtIppTest.csproj",
+              "RelativeDocumentMoniker": "WinRtIppTest\\WinRtIppTest.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Apress\\Chap2Code\\Code\\WinRtIppTest\\WinRtIppTest\\WinRtIppTest.csproj*",
+              "RelativeToolTip": "WinRtIppTest\\WinRtIppTest.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-31T18:22:50.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

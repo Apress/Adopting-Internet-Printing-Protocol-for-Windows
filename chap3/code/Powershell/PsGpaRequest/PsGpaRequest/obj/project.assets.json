@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "PowerShellStandard.Library/5.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net452/System.Management.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net452/System.Management.Automation.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "PowerShellStandard.Library/5.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net452/System.Management.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net452/System.Management.Automation.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "PowerShellStandard.Library/5.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net452/System.Management.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net452/System.Management.Automation.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "PowerShellStandard.Library/5.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net452/System.Management.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net452/System.Management.Automation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PowerShellStandard.Library/5.1.1": {
+      "sha512": "e31xJjG+Kjbv6YF3Yq6D4Dl3or8v7LrNF41k3CXrWozW6hR1zcOe5KYuZJaGSiAgLnwP8wcW+I3+IWEzMPZKXQ==",
+      "type": "package",
+      "path": "powershellstandard.library/5.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/System.Management.Automation.dll",
+        "lib/netstandard2.0/System.Management.Automation.dll",
+        "powershellstandard.library.5.1.1.nupkg.sha512",
+        "powershellstandard.library.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "PowerShellStandard.Library >= 5.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jpmsp\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\PsGpaRequest\\PsGpaRequest\\PsGpaRequest.csproj",
+      "projectName": "PsGpaRequest",
+      "projectPath": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\PsGpaRequest\\PsGpaRequest\\PsGpaRequest.csproj",
+      "packagesPath": "C:\\Users\\jpmsp\\.nuget\\packages\\",
+      "outputPath": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\PsGpaRequest\\PsGpaRequest\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jpmsp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "PowerShellStandard.Library": {
+            "target": "Package",
+            "version": "[5.1.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\RmLocalPrinters\RmLocalPrinters\bin\Debug\RmLocalPrinters.exe.config
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\RmLocalPrinters\RmLocalPrinters\bin\Debug\RmLocalPrinters.exe
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\RmLocalPrinters\RmLocalPrinters\bin\Debug\RmLocalPrinters.pdb
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\RmLocalPrinters\RmLocalPrinters\obj\Debug\RmLocalPrinters.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\RmLocalPrinters\RmLocalPrinters\obj\Debug\RmLocalPrinters.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\RmLocalPrinters\RmLocalPrinters\obj\Debug\RmLocalPrinters.exe
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\RmLocalPrinters\RmLocalPrinters\obj\Debug\RmLocalPrinters.pdb

@@ -1,0 +1,13 @@
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\bin\Release\x64\pdfium.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\bin\Release\x86\pdfium.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\bin\Release\CSPrint.exe.config
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\bin\Release\CSPrint.exe
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\bin\Release\CSPrint.pdb
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\bin\Release\PdfiumViewer.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\bin\Release\PdfiumViewer.xml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\bin\Release\nl\PdfiumViewer.resources.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\obj\Release\CSPrint.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\obj\Release\CSPrint.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\obj\Release\CSPrint.csproj.Up2Date
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\obj\Release\CSPrint.exe
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\ConsoleIppPrint\CSPrint\obj\Release\CSPrint.pdb

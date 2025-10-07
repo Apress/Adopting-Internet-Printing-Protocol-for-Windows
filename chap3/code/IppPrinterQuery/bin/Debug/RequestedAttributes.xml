@@ -1,0 +1,35 @@
+<RequestedAttributes>
+  <SingleAttributes>
+    <printer-uri-supported />
+    <ipp-versions-supported />
+    <printer-name />
+    <printer-location />
+    <printer-state />
+    <printer-security-supported />
+    <printer-authentication-supported />
+    <printer-name />
+    <printer-geo-location />
+    <printer-location />
+    <printer-state-reasons />
+    <document-format-default />
+    <printer-is-accepting-jobs />
+    <queued-job-count />
+    <printer-up-time />
+    <printer-current-time />
+    <pages-per-minute />
+    <printer-more-info />
+    <color-supported />
+    <document-format-supported />
+    <printer-firmware-name />
+    <printer-firmware-string-version />
+    <mopria-certified />
+    <printer-organization />
+    <operations-supported />
+    <mimeMediaType/>
+    <hp-print-quality-supported/>
+    <hp-outputbins-supported/>
+  </SingleAttributes>
+  <MultiAttributes>
+    
+  </MultiAttributes>
+</RequestedAttributes>

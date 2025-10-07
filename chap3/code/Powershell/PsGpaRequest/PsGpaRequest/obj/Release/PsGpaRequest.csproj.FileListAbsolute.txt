@@ -1,0 +1,8 @@
+D:\BACKUP\IPP Book\Chap3\code\Powershell\PsGpaRequest\PsGpaRequest\bin\Release\PsGpaRequest.dll
+D:\BACKUP\IPP Book\Chap3\code\Powershell\PsGpaRequest\PsGpaRequest\bin\Release\PsGpaRequest.pdb
+D:\BACKUP\IPP Book\Chap3\code\Powershell\PsGpaRequest\PsGpaRequest\bin\Release\System.Management.Automation.dll
+D:\BACKUP\IPP Book\Chap3\code\Powershell\PsGpaRequest\PsGpaRequest\obj\Release\PsGpaRequest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\Powershell\PsGpaRequest\PsGpaRequest\obj\Release\PsGpaRequest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\Powershell\PsGpaRequest\PsGpaRequest\obj\Release\PsGpaRequest.csproj.CopyComplete
+D:\BACKUP\IPP Book\Chap3\code\Powershell\PsGpaRequest\PsGpaRequest\obj\Release\PsGpaRequest.dll
+D:\BACKUP\IPP Book\Chap3\code\Powershell\PsGpaRequest\PsGpaRequest\obj\Release\PsGpaRequest.pdb

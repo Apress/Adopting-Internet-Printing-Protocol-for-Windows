@@ -1,0 +1,51 @@
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\Views\MainWindow.g.cs
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\App.g.cs
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_Content.g.cs
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_MarkupCompile.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_MarkupCompile.lref
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\CS_GPA_CH3_WPF.exe.config
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\CS_GPA_CH3_WPF.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\CS_GPA_CH3_WPF.pdb
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\DotNetProjects.DataVisualization.Toolkit.dll
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\MicroMvvm.dll
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\App.baml
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\Views\MainWindow.baml
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.g.resources
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.Properties.Resources.resources
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.csproj.GenerateResource.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.pdb
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.csproj.AssemblyReference.cache
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\Views\MainWindow.g.cs
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\App.g.cs
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_Content.g.cs
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_MarkupCompile.cache
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_MarkupCompile.lref
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.exe
+C:\Temp\Test\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.pdb
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\CS_GPA_CH3_WPF.exe.config
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\CS_GPA_CH3_WPF.exe
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\CS_GPA_CH3_WPF.pdb
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\DotNetProjects.DataVisualization.Toolkit.dll
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\bin\x64\Release\MicroMvvm.dll
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.csproj.AssemblyReference.cache
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\Views\MainWindow.g.cs
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\App.g.cs
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_Content.g.cs
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_MarkupCompile.cache
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF_MarkupCompile.lref
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\App.baml
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\Views\MainWindow.baml
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.g.resources
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.Properties.Resources.resources
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.csproj.GenerateResource.cache
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.csproj.CoreCompileInputs.cache
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_C.6D861DE2.Up2Date
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.exe
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_CH3_WPF.pdb
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3_WPF\obj\x64\Release\CS_GPA_C.6D861DE2.Up2Date

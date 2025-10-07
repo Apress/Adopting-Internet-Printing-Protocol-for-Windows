@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[SnmpTest.csproj]
+SCC_Aux_Path = "V:\"
+SCC_Project_Name = "$/SnmpTest.root/SnmpTest/Test", ZGLAAAAA
+
+[PrinterInfo.csproj]
+SCC_Aux_Path = "V:\"
+SCC_Project_Name = "$/SnmpTest.root/SnmpTest/PrinterInfo", CTMAAAAA

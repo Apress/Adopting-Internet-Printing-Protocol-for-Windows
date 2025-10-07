@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RmLocalPrinters||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\rmlocalprinters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|solutionrelative:rmlocalprinters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\rmlocalprinters\\commandlineargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|solutionrelative:rmlocalprinters\\commandlineargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\rmlocalprinters\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|solutionrelative:rmlocalprinters\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\rmlocalprinters\\collections\\remoteprinters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|solutionrelative:rmlocalprinters\\collections\\remoteprinters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\rmlocalprinters\\collections\\remoteprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|solutionrelative:rmlocalprinters\\collections\\remoteprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD8332A-E501-438C-9E4D-92330E5B9D50}|RmLocalPrinters\\RmLocalPrinters.csproj|d:\\backup\\ipp book\\apress\\chap7code\\code\\rmlocalprinters\\rmlocalprinters\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\Program.cs",
+              "RelativeDocumentMoniker": "RmLocalPrinters\\Program.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\Program.cs",
+              "RelativeToolTip": "RmLocalPrinters\\Program.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAOQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:54:01.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\Logger.cs",
+              "RelativeDocumentMoniker": "RmLocalPrinters\\Logger.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\Logger.cs",
+              "RelativeToolTip": "RmLocalPrinters\\Logger.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAsAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:29:58.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RmLocalPrinters",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\RmLocalPrinters.csproj",
+              "RelativeDocumentMoniker": "RmLocalPrinters\\RmLocalPrinters.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\RmLocalPrinters.csproj",
+              "RelativeToolTip": "RmLocalPrinters\\RmLocalPrinters.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-10T19:25:27.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandLineArgs.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\CommandLineArgs.cs",
+              "RelativeDocumentMoniker": "RmLocalPrinters\\CommandLineArgs.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\CommandLineArgs.cs",
+              "RelativeToolTip": "RmLocalPrinters\\CommandLineArgs.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:01:51.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemotePrinters.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\Collections\\RemotePrinters.cs",
+              "RelativeDocumentMoniker": "RmLocalPrinters\\Collections\\RemotePrinters.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\Collections\\RemotePrinters.cs",
+              "RelativeToolTip": "RmLocalPrinters\\Collections\\RemotePrinters.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:16:39.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemotePrinter.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\Collections\\RemotePrinter.cs",
+              "RelativeDocumentMoniker": "RmLocalPrinters\\Collections\\RemotePrinter.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Apress\\Chap7Code\\Code\\RmLocalPrinters\\RmLocalPrinters\\Collections\\RemotePrinter.cs",
+              "RelativeToolTip": "RmLocalPrinters\\Collections\\RemotePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:08:07.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

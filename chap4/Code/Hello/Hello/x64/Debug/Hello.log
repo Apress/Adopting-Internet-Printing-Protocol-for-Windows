@@ -1,0 +1,3 @@
+﻿  Hello.cpp
+D:\BACKUP\IPP Book\Apress\Chap4Code\Code\Hello\Hello\Hello.cpp(71,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Hello.vcxproj -> D:\BACKUP\IPP Book\Apress\Chap4Code\Code\Hello\x64\Debug\Hello.exe

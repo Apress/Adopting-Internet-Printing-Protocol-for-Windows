@@ -1,0 +1,142 @@
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.exe
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Graphics\baseprinter.png
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.dll.config
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.deps.json
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.runtimeconfig.json
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.pdb
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.forms.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.io.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.layout.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.sign.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.svg.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.commons.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\MicroMvvm.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\ConsumablesWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\InformationWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\JobAttributesFileWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\JobCreationWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\PrintersListWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\RequestErrorWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\RequestWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\SetupWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\TestParametersWindow.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\App.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck_Content.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck_MarkupCompile.cache
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck_MarkupCompile.lref
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\App.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\ConsumablesWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\InformationWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\JobAttributesFileWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\JobCreationWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\PrintersListWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\RequestErrorWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\RequestWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\SetupWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\TestParametersWindow.baml
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.g.resources
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.AssemblyInfoInputs.cache
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.AssemblyInfo.cs
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.csproj.Up2Date
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\refint\IppCheck.dll
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.pdb
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.genruntimeconfig.cache
+D:\BACKUP\IPP Book\Apress\AddendumCode\Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\ref\IppCheck.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.exe
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Graphics\baseprinter.png
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.dll.config
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.deps.json
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.runtimeconfig.json
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\IppCheck.pdb
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.forms.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.io.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.layout.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.sign.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.svg.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\itext.commons.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\bin\Debug\net8.0-windows\MicroMvvm.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\ConsumablesWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\InformationWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\JobAttributesFileWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\JobCreationWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\PrintersListWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\RequestErrorWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\RequestWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\SetupWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\TestParametersWindow.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\App.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck_Content.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck_MarkupCompile.cache
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck_MarkupCompile.lref
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\App.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\ConsumablesWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\InformationWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\JobAttributesFileWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\JobCreationWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\PrintersListWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\RequestErrorWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\RequestWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\SetupWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\Views\TestParametersWindow.baml
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.g.resources
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.AssemblyInfoInputs.cache
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.AssemblyInfo.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.csproj.Up2Date
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\refint\IppCheck.dll
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.pdb
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\IppCheck.genruntimeconfig.cache
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\ref\IppCheck.dll

@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BACKUP\\IPP Book\\Chap4 MS IPP Class Driver\\Code\\Document2Pdf\\Document2Pdf\\Document2Pdf.csproj": {}
+  },
+  "projects": {
+    "D:\\BACKUP\\IPP Book\\Chap4 MS IPP Class Driver\\Code\\Document2Pdf\\Document2Pdf\\Document2Pdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BACKUP\\IPP Book\\Chap4 MS IPP Class Driver\\Code\\Document2Pdf\\Document2Pdf\\Document2Pdf.csproj",
+        "projectName": "Document2Pdf",
+        "projectPath": "D:\\BACKUP\\IPP Book\\Chap4 MS IPP Class Driver\\Code\\Document2Pdf\\Document2Pdf\\Document2Pdf.csproj",
+        "packagesPath": "C:\\Users\\jpmsp\\.nuget\\packages\\",
+        "outputPath": "D:\\BACKUP\\IPP Book\\Chap4 MS IPP Class Driver\\Code\\Document2Pdf\\Document2Pdf\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpmsp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FreeSpire.Doc": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "FreeSpire.XLS": {
+              "target": "Package",
+              "version": "[14.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

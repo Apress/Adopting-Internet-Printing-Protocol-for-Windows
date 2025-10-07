@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (WinIppTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  dllmain.cpp
+C:\Users\778220\GitRepos\LibCups\vcnet\WinIpp.h(14,10): fatal  error C1083: Cannot open include file: 'cups/cups-private.h': No such file or directory

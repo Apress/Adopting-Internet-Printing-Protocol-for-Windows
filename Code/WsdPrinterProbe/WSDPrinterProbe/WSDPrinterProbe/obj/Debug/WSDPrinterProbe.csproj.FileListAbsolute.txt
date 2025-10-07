@@ -1,0 +1,7 @@
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\WsdPrinterProbe\WSDPrinterProbe\WSDPrinterProbe\bin\Debug\WSDPrinterProbe.exe.config
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\WsdPrinterProbe\WSDPrinterProbe\WSDPrinterProbe\bin\Debug\WSDPrinterProbe.exe
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\WsdPrinterProbe\WSDPrinterProbe\WSDPrinterProbe\bin\Debug\WSDPrinterProbe.pdb
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\WsdPrinterProbe\WSDPrinterProbe\WSDPrinterProbe\obj\Debug\WSDPrinterProbe.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\WsdPrinterProbe\WSDPrinterProbe\WSDPrinterProbe\obj\Debug\WSDPrinterProbe.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\WsdPrinterProbe\WSDPrinterProbe\WSDPrinterProbe\obj\Debug\WSDPrinterProbe.exe
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\WsdPrinterProbe\WSDPrinterProbe\WSDPrinterProbe\obj\Debug\WSDPrinterProbe.pdb

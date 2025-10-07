@@ -1,0 +1,183 @@
+
+/*--------------------------------------------------------------
+ alloc_data()
+
+ Initialize and allocate test data.
+
+ Returns ipptool_test_t* - Test data
+--------------------------------------------------------------*/
+
+static ipptool_test_t* alloc_data(void)
+{
+    ipptool_test_t* data;		// Test data
+
+
+    if ((data = calloc(1, sizeof(ipptool_test_t))) == NULL)
+    {
+        cupsLangPrintf(stderr, _("ipptool: Unable to allocate memory: %s"), strerror(errno));
+        exit(1);
+    }
+
+    data->parent = ippFileNew(/*parent*/NULL, /*attr_cb*/NULL, (ipp_ferror_cb_t)error_cb, data);
+    data->output = IPPTOOL_OUTPUT_LIST;
+    data->outfile = cupsFileStdout();
+    data->family = AF_UNSPEC;
+    data->def_transfer = IPPTOOL_TRANSFER_AUTO;
+    data->def_version = 20;
+    data->errors = cupsArrayNew(NULL, NULL, NULL, 0, (cups_acopy_cb_t)strdup, (cups_afree_cb_t)free);
+    data->pass = true;
+    data->prev_pass = true;
+    data->request_id = (cupsGetRand() % 1000) * 137;
+    data->show_header = true;
+
+    ippFileSetVar(data->parent, "date-start", iso_date(ippTimeToDate(time(NULL))));
+
+    return (data);
+}
+
+
+/*--------------------------------------------------------------
+ 'clear_data()' - Clear per-test data...
+
+----------------------------------------------------------------*/
+static void clear_data(ipptool_test_t* data)	// I - Test data
+{
+    size_t	i;			// Looping var
+    ipptool_expect_t* expect;		// Current EXPECT
+
+
+    cupsArrayClear(data->errors);
+
+    for (i = 0; i < data->num_displayed; i++)
+        free(data->displayed[i]);
+    data->num_displayed = 0;
+
+    for (i = data->num_expects, expect = data->expects; i > 0; i--, expect++)
+    {
+        free(expect->name);
+        free(expect->of_type);
+        free(expect->same_count_as);
+        free(expect->if_defined);
+        free(expect->if_not_defined);
+        free(expect->with_value);
+        free(expect->define_match);
+        free(expect->define_no_match);
+        free(expect->define_value);
+        free(expect->display_match);
+        cupsArrayDelete(expect->with_mime_types);
+        free(expect->save_filespec);
+    }
+    data->num_expects = 0;
+
+    for (i = 0; i < data->num_statuses; i++)
+    {
+        free(data->statuses[i].if_defined);
+        free(data->statuses[i].if_not_defined);
+        free(data->statuses[i].define_match);
+        free(data->statuses[i].define_no_match);
+        free(data->statuses[i].define_value);
+    }
+    data->num_statuses = 0;
+
+    free(data->monitor_uri);
+    data->monitor_uri = NULL;
+
+    for (i = data->num_monitor_expects, expect = data->monitor_expects; i > 0; i--, expect++)
+    {
+        free(expect->name);
+        free(expect->of_type);
+        free(expect->same_count_as);
+        free(expect->if_defined);
+        free(expect->if_not_defined);
+        free(expect->with_value);
+        free(expect->define_match);
+        free(expect->define_no_match);
+        free(expect->define_value);
+        free(expect->display_match);
+    }
+    data->num_monitor_expects = 0;
+
+    free(data->generate_params);
+    data->generate_params = NULL;
+}
+
+/*--------------------------------------------------------------
+ create_file()
+
+ Create a file for content checks.
+--------------------------------------------------------------*/
+
+static int				// O - File descriptor or -1 on error
+create_file(const char* filespec,	// I - Filespec string or NULL
+    const char* resource,	// I - Resource name
+    size_t     idx,		// I - Value index
+    char* filename,	// I - Filename buffer
+    size_t     filenamesize)	// I - Filename buffer size
+{
+    char* ptr,				// Pointer into filename
+        * end,				// End of filename buffer
+        base_resource[256],		// Base name for resource
+        * base_ext;			// Extension for resource
+
+
+    // If there is no filespec, just create a temporary file...
+    if (!filespec)
+        return (cupsTempFd(NULL, NULL, filename, filenamesize));
+
+    // Convert resource path to base name...
+    if ((ptr = strrchr(resource, '/')) != NULL)
+        cupsCopyString(base_resource, ptr + 1, sizeof(base_resource));
+    else
+        cupsCopyString(base_resource, resource, sizeof(base_resource));
+
+    if ((base_ext = strrchr(base_resource, '.')) != NULL)
+        *base_ext++ = '\0';
+    else
+        base_ext = base_resource + strlen(base_resource);
+
+    // Format the filename...
+    for (ptr = filename, end = filename + filenamesize - 1; *filespec && ptr < end;)
+    {
+        if (!strncmp(filespec, "%basename%", 10))
+        {
+            cupsCopyString(ptr, base_resource, (size_t)(end - ptr + 1));
+            ptr += strlen(ptr);
+            filespec += 10;
+        }
+        else if (!strncmp(filespec, "%ext%", 5))
+        {
+            cupsCopyString(ptr, base_ext, (size_t)(end - ptr + 1));
+            ptr += strlen(ptr);
+            filespec += 5;
+        }
+        else if (!strncmp(filespec, "%index%", 7))
+        {
+            snprintf(ptr, (size_t)(end - ptr + 1), "%u", (unsigned)idx);
+            ptr += strlen(ptr);
+            filespec += 7;
+        }
+        else if (*filespec == '%')
+        {
+            filespec++;
+
+            if (*filespec == '%')
+                *ptr++ = '%';
+
+            while (*filespec != '%')
+                filespec++;
+
+            if (*filespec)
+                filespec++;
+        }
+        else
+        {
+            // Copy literal character...
+            *ptr++ = *filespec++;
+        }
+    }
+
+    *ptr = '\0';
+
+    // Try creating the file...
+    return (open(filename, O_CREAT | O_WRONLY | O_TRUNC, 0666));
+}

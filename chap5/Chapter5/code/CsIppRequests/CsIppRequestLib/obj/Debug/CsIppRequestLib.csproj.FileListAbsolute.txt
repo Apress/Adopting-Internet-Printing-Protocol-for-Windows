@@ -1,0 +1,12 @@
+D:\BACKUP\IPP Book\Chapter 5 CUPS Based Print\code\CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chapter 5 CUPS Based Print\code\CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chapter 5 CUPS Based Print\code\CsIppRequests\CsIppRequestLib\bin\Debug\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\Chapter 5 CUPS Based Print\code\CsIppRequests\CsIppRequestLib\bin\Debug\CsIppRequestLib.pdb
+D:\BACKUP\IPP Book\Chapter 5 CUPS Based Print\code\CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\Chapter 5 CUPS Based Print\code\CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.pdb
+D:\BACKUP\IPP Book\Chap 5 An IPP RFC Library\code\CsIppRequests\CsIppRequestLib\bin\Debug\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\Chap 5 An IPP RFC Library\code\CsIppRequests\CsIppRequestLib\bin\Debug\CsIppRequestLib.pdb
+D:\BACKUP\IPP Book\Chap 5 An IPP RFC Library\code\CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap 5 An IPP RFC Library\code\CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap 5 An IPP RFC Library\code\CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\Chap 5 An IPP RFC Library\code\CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.pdb

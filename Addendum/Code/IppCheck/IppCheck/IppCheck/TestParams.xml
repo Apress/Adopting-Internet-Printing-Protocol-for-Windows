@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Printer>
+  <IppAttributes>
+    <IppVersionMax>2.2</IppVersionMax>
+    <IppVersionMin>1.0</IppVersionMin>
+    <MopriaCertification>1.0</MopriaCertification>
+    <OperationsSupported>
+        <Operation>get-printer-attributes</Operation>
+        <Operation>cancel-job</Operation>
+        <Operation>validate-job</Operation>
+        <Operation>create-job</Operation>
+	<Operation>print-job</Operation>
+        <Operation>send-document</Operation>
+ 	<Operation>identify-printer</Operation>
+    </OperationsSupported>
+  </IppAttributes>
+</Printer>

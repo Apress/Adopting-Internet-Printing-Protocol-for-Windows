@@ -1,0 +1,8 @@
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\bin\Debug\TestPrint1.exe.config
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\bin\Debug\TestPrint1.exe
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\bin\Debug\TestPrint1.pdb
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\TestPrint1.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\TestPrint1.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\TestPrint1.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\TestPrint1.exe
+D:\BACKUP\IPP Book\Chapter 5 IPP Print\Code\TestPrint1\TestPrint1\obj\Debug\TestPrint1.pdb

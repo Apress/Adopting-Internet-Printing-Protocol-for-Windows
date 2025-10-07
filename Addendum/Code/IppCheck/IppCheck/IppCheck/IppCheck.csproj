@@ -1,0 +1,134 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>IppCheck.ico</ApplicationIcon>
+    <Platforms>AnyCPU;x64</Platforms>
+    <FileVersion>1.0.7.1</FileVersion>
+    <AssemblyVersion>1.0.7.1</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Graphics\attributes.png" />
+    <None Remove="Graphics\baseprinter.png" />
+    <None Remove="Graphics\blue-check-mark.jpg" />
+    <None Remove="Graphics\bluetriangle.png" />
+    <None Remove="Graphics\brother.png" />
+    <None Remove="Graphics\bw.png" />
+    <None Remove="Graphics\cancel.png" />
+    <None Remove="Graphics\close.png" />
+    <None Remove="Graphics\collection.png" />
+    <None Remove="Graphics\color.png" />
+    <None Remove="Graphics\csvfile.png" />
+    <None Remove="Graphics\encrypted.png" />
+    <None Remove="Graphics\encrypted_gray.png" />
+    <None Remove="Graphics\epson.png" />
+    <None Remove="Graphics\error.png" />
+    <None Remove="Graphics\fail.png" />
+    <None Remove="Graphics\GreenLight.png" />
+    <None Remove="Graphics\hp.png" />
+    <None Remove="Graphics\ibm.png" />
+    <None Remove="Graphics\identify.png" />
+    <None Remove="Graphics\ipp.png" />
+    <None Remove="Graphics\IPPConfigured.png" />
+    <None Remove="Graphics\IPPNotConfigured.png" />
+    <None Remove="Graphics\job.png" />
+    <None Remove="Graphics\jobattributes.png" />
+    <None Remove="Graphics\konica.png" />
+    <None Remove="Graphics\lexmark.png" />
+    <None Remove="Graphics\marker.png" />
+    <None Remove="Graphics\minus.png" />
+    <None Remove="Graphics\mopria.png" />
+    <None Remove="Graphics\operations.png" />
+    <None Remove="Graphics\parameters.png" />
+    <None Remove="Graphics\pass.png" />
+    <None Remove="Graphics\plus.png" />
+    <None Remove="Graphics\RedLight.png" />
+    <None Remove="Graphics\setup.png" />
+    <None Remove="Graphics\test.png" />
+    <None Remove="Graphics\testpage.png" />
+    <None Remove="Graphics\unknown.png" />
+    <None Remove="Graphics\unreachable.png" />
+    <None Remove="Graphics\UnReachableStatus.png" />
+    <None Remove="Graphics\validate.png" />
+    <None Remove="Graphics\xerox.png" />
+    <None Remove="IppCheckPage.pdf" />
+    <None Remove="IppTestPage.pdf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="IppCheck.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetProjects.WpfToolkit.DataVisualization" Version="6.1.94" />
+    <PackageReference Include="itext" Version="9.1.0" />
+    <PackageReference Include="itext.bouncy-castle-adapter" Version="9.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CsIppRequestLib">
+      <HintPath>..\..\..\..\..\Addendum IPP Check\Code\IppCheck\IppCheck\IppCheck\Libs\CsIppRequestLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MicroMvvm">
+      <HintPath>Libs\MicroMvvm.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Graphics\attributes.png" />
+    <EmbeddedResource Include="Graphics\baseprinter.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IppTestPage.pdf" />
+    <Resource Include="Graphics\blue-check-mark.jpg" />
+    <Resource Include="Graphics\bluetriangle.png" />
+    <Resource Include="Graphics\brother.png" />
+    <Resource Include="Graphics\bw.png" />
+    <Resource Include="Graphics\close.png" />
+    <Resource Include="Graphics\collection.png" />
+    <Resource Include="Graphics\color.png" />
+    <Resource Include="Graphics\csvfile.png" />
+    <Resource Include="Graphics\encrypted.png" />
+    <Resource Include="Graphics\encrypted_gray.png" />
+    <Resource Include="Graphics\epson.png" />
+    <Resource Include="Graphics\error.png" />
+    <Resource Include="Graphics\fail.png" />
+    <Resource Include="Graphics\GreenLight.png" />
+    <Resource Include="Graphics\hp.png" />
+    <Resource Include="Graphics\ibm.png" />
+    <Resource Include="Graphics\identify.png" />
+    <Resource Include="Graphics\ipp.png" />
+    <Resource Include="Graphics\IPPConfigured.png" />
+    <Resource Include="Graphics\IPPNotConfigured.png" />
+    <Resource Include="Graphics\job.png" />
+    <Resource Include="Graphics\jobattributes.png" />
+    <Resource Include="Graphics\konica.png" />
+    <Resource Include="Graphics\lexmark.png" />
+    <Resource Include="Graphics\marker.png" />
+    <Resource Include="Graphics\minus.png" />
+    <Resource Include="Graphics\mopria.png" />
+    <Resource Include="Graphics\operations.png" />
+    <Resource Include="Graphics\parameters.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Graphics\cancel.png" />
+    <Resource Include="Graphics\pass.png" />
+    <Resource Include="Graphics\plus.png" />
+    <Resource Include="Graphics\RedLight.png" />
+    <Resource Include="Graphics\setup.png" />
+    <Resource Include="Graphics\test.png" />
+    <Resource Include="Graphics\testpage.png" />
+    <Resource Include="Graphics\unknown.png" />
+    <Resource Include="Graphics\unreachable.png" />
+    <Resource Include="Graphics\UnReachableStatus.png" />
+    <Resource Include="Graphics\validate.png" />
+    <Resource Include="Graphics\xerox.png" />
+  </ItemGroup>
+
+</Project>

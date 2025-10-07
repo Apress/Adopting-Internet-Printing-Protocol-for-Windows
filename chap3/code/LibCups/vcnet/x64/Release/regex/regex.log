@@ -1,0 +1,53 @@
+﻿  regcomp.c
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\regcomp.c(118,37): warning C4267: '=': conversion from 'size_t' to 'sopno', possible loss of data
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\regcomp.c(254,15): warning C4267: '=': conversion from 'size_t' to 'sopno', possible loss of data
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\regcomp.c(474,15): warning C4267: '=': conversion from 'size_t' to 'sopno', possible loss of data
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\regcomp.c(805,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\regcomp.c(1062,3): warning C4267: '-=': conversion from 'size_t' to 'uch', possible loss of data
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\regcomp.c(1381,24): warning C4267: '=': conversion from 'size_t' to 'sop', possible loss of data
+  regerror.c
+  regexec.c
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(204,30): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(205,26): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(397,28): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(402,28): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(590,27): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(601,27): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(204,30): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(205,26): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(397,28): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(402,28): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(590,27): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\regex\engine.c(601,27): warning C4244: '=': conversion from '__int64' to 'regoff_t', possible loss of data
+  (compiling source file 'regex/regexec.c')
+  
+  regfree.c
+  split.c
+     Creating library x64\Release\regex.lib and object x64\Release\regex.exp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 58 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  regex.vcxproj -> D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\x64\Release\regex.dll

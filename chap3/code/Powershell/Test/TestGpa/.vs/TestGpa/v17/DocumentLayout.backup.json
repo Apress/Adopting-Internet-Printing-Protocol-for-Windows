@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9279C37E-4CE6-4521-B7CD-72175DF6D83E}|TestGpa\\TestGpa.csproj|d:\\backup\\ipp book\\chap3\\code\\powershell\\test\\testgpa\\testgpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9279C37E-4CE6-4521-B7CD-72175DF6D83E}|TestGpa\\TestGpa.csproj|solutionrelative:testgpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TestGpa||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9279C37E-4CE6-4521-B7CD-72175DF6D83E}|TestGpa\\TestGpa.csproj|D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\testgpa\\requesthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9279C37E-4CE6-4521-B7CD-72175DF6D83E}|TestGpa\\TestGpa.csproj|solutionrelative:testgpa\\requesthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9279C37E-4CE6-4521-B7CD-72175DF6D83E}|TestGpa\\TestGpa.csproj|D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\testgpa\\byteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9279C37E-4CE6-4521-B7CD-72175DF6D83E}|TestGpa\\TestGpa.csproj|solutionrelative:testgpa\\byteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9279C37E-4CE6-4521-B7CD-72175DF6D83E}|TestGpa\\TestGpa.csproj|d:\\backup\\ipp book\\chap3\\code\\powershell\\test\\testgpa\\testgpa\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestGpa",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\TestGpa\\TestGpa.csproj",
+              "RelativeDocumentMoniker": "TestGpa\\TestGpa.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\TestGpa\\TestGpa.csproj",
+              "RelativeToolTip": "TestGpa\\TestGpa.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T21:46:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestHelpers.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\TestGpa\\RequestHelpers.cs",
+              "RelativeDocumentMoniker": "TestGpa\\RequestHelpers.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\TestGpa\\RequestHelpers.cs",
+              "RelativeToolTip": "TestGpa\\RequestHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:41:52.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ByteOrder.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\TestGpa\\ByteOrder.cs",
+              "RelativeDocumentMoniker": "TestGpa\\ByteOrder.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\TestGpa\\ByteOrder.cs",
+              "RelativeToolTip": "TestGpa\\ByteOrder.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:41:44.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\TestGpa\\Program.cs",
+              "RelativeDocumentMoniker": "TestGpa\\Program.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\Powershell\\Test\\TestGpa\\TestGpa\\Program.cs",
+              "RelativeToolTip": "TestGpa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:38:24.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

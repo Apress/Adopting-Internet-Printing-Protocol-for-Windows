@@ -1,0 +1,16 @@
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA\bin\Debug\CS_GPA.exe.config
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA\bin\Debug\CS_GPA.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA\bin\Debug\CS_GPA.pdb
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA\obj\Debug\CS_GPA_CH3.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA\obj\Debug\CS_GPA_CH3.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA\obj\Debug\CS_GPA_CH3.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA\obj\Debug\CS_GPA.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA\obj\Debug\CS_GPA.pdb
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\Debug\CS_GPA_CH3.exe.config
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\Debug\CS_GPA_CH3.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\Debug\CS_GPA_CH3.pdb
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\Debug\CS_GPA_CH3.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\Debug\CS_GPA_CH3.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\Debug\CS_GPA_CH3.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\Debug\CS_GPA_CH3.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\Debug\CS_GPA_CH3.pdb

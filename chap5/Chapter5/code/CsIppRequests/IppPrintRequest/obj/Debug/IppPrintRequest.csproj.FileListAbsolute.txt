@@ -1,0 +1,11 @@
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\bin\Debug\test.pdf
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\bin\Debug\IppPrintRequest.exe.config
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\bin\Debug\IppPrintRequest.exe
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\bin\Debug\IppPrintRequest.pdb
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\bin\Debug\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\bin\Debug\CsIppRequestLib.pdb
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\obj\Debug\IppPrintRequest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\obj\Debug\IppPrintRequest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\obj\Debug\IppPrint.A4D7501C.Up2Date
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\obj\Debug\IppPrintRequest.exe
+D:\BACKUP\IPP Book\Work\Chap 5 An IPP RFC Library\code\CsIppRequests\IppPrintRequest\obj\Debug\IppPrintRequest.pdb

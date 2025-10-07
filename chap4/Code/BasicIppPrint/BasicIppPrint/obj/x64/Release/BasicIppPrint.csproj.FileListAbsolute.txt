@@ -1,0 +1,15 @@
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\bin\x64\Release\BasicIppPrint.exe.config
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\bin\x64\Release\BasicIppPrint.exe
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\bin\x64\Release\BasicIppPrint.pdb
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.exe
+D:\BACKUP\IPP Book\Chap4 MS IPP Class Driver\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.pdb
+D:\BACKUP\IPP Book\Apress\Chap4Code\Code\BasicIppPrint\BasicIppPrint\bin\x64\Release\BasicIppPrint.exe.config
+D:\BACKUP\IPP Book\Apress\Chap4Code\Code\BasicIppPrint\BasicIppPrint\bin\x64\Release\BasicIppPrint.exe
+D:\BACKUP\IPP Book\Apress\Chap4Code\Code\BasicIppPrint\BasicIppPrint\bin\x64\Release\BasicIppPrint.pdb
+D:\BACKUP\IPP Book\Apress\Chap4Code\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap4Code\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap4Code\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.exe
+D:\BACKUP\IPP Book\Apress\Chap4Code\Code\BasicIppPrint\BasicIppPrint\obj\x64\Release\BasicIppPrint.pdb

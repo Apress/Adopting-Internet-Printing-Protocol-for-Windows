@@ -1,0 +1,58 @@
+﻿<Window x:Class="IppCheck.TestParametersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IppCheck"
+        mc:Ignorable="d"
+        Title="Test Parameters Window" local:AutoBindEvents.IsAutoBindEvent="True"  Height="500" Width="550" WindowStyle="None">
+    <Window.DataContext>
+        <local:TestParametersWindowViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <ResourceDictionary>
+            <BooleanToVisibilityConverter x:Key="Bool2Vis" />
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="1" Grid.Column="0">
+            <TextBlock Text="Min Ipp Version:"  Width="150" Height="20" HorizontalAlignment="Right" VerticalAlignment="Center" TextWrapping="WrapWithOverflow" Style="{StaticResource MediumTextBlockStyle}"/>
+            <TextBox Text="{Binding IppMin, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="20" HorizontalAlignment="Center" 
+            VerticalAlignment="Center" Style="{StaticResource MediumTextBoxStyle}" IsReadOnly="True"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="0">
+            <TextBlock Text="Max Ipp Version:"  Width="150" Height="20" HorizontalAlignment="Right" VerticalAlignment="Center" TextWrapping="WrapWithOverflow" Style="{StaticResource MediumTextBlockStyle}" />
+            <TextBox Text="{Binding IppMax, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="20" HorizontalAlignment="Center" 
+          VerticalAlignment="Center" Style="{StaticResource MediumTextBoxStyle}" IsReadOnly="True"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Grid.Column="0" >
+            <TextBlock Text="Mopria Certification:"  Width="150" Height="20" HorizontalAlignment="Right" VerticalAlignment="Center" TextWrapping="WrapWithOverflow" Style="{StaticResource MediumTextBlockStyle}"/>
+            <TextBox Text="{Binding MopriaVer, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="100" Height="20" HorizontalAlignment="Center" Style="{StaticResource MediumTextBoxStyle}" IsReadOnly="True"/>
+        </StackPanel>
+        <Button Grid.Row="5" Grid.Column="5" Command="{Binding ExitCommand}" ToolTip="Close Setup Window" Style="{StaticResource StdButtonStyle}">
+            <StackPanel>
+                <StackPanel>
+                    <Image Source="pack://application:,,,/IppCheck;component/Graphics/close.png" Style="{StaticResource StdButtonImageStyle}" />
+                    <Label Content="Close" Style="{StaticResource StdButtonImageLabel}" VerticalAlignment="Bottom"/>
+                </StackPanel>
+            </StackPanel>
+        </Button>
+        <TextBlock Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Text="Supported IPP Operations"  Width="150" Height="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Style="{StaticResource MediumTextBlockStyle}"/>
+        <ListBox Grid.Row="1" Grid.Column="1" Grid.RowSpan="3" Grid.ColumnSpan="3" ItemsSource="{Binding Path=OperationsSupported}" MinWidth="250" MinHeight="220" ToolTip="Supported IPP Operations" Style="{StaticResource ListBoxStyle}"/>
+    </Grid>
+</Window>

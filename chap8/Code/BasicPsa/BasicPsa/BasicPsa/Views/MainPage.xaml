@@ -1,0 +1,51 @@
+﻿<Page
+    x:Class="BasicPsa.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BasicPsa"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0"  Orientation="Vertical">
+            <TextBlock Text="PSA Properties" Foreground="Blue"/>
+        </StackPanel>
+        <StackPanel  Grid.Row="1"  Grid.Column="0"  Orientation="Vertical">
+            <TextBlock Text="Installed Date: " Foreground="Blue"/>
+            <TextBlock Text="Publisher: " Foreground="Blue"/>
+            <TextBlock Text="Installed Path: " Foreground="Blue"/>
+            <TextBlock Text="Family Name: " Foreground="Blue"/>
+            <TextBlock Text="App Deployment Path:" Foreground="Blue"/>
+        </StackPanel>
+        <StackPanel  Grid.Row="1"  Grid.Column="1"  Orientation="Vertical">
+            <TextBlock Name="InstalledDate" Foreground="Blue"/>
+            <TextBlock Name ="Publisher" Foreground="Blue"/>
+            <TextBlock Name="InstalledPath" Foreground="Blue"/>
+            <TextBlock Name="FamilyName" Foreground="Blue"/>
+            <TextBlock Name="AppDeployPath" Foreground="Blue"/>
+        </StackPanel>
+        <Button x:Name="Printers" Grid.Row="2" Grid.Column="0" Height="100" Width="100"  Click="Printers_Click"  ToolTipService.ToolTip="Go to Printers">
+            <StackPanel>
+                <Image Source="/Assets/printer.png"  Height="50" Width="50"/>
+                <TextBlock Text="Printers" VerticalAlignment="Bottom" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="Devices" Grid.Row="2" Grid.Column="1" Height="100" Width="100"  Click="Devices_Click" ToolTipService.ToolTip="Go to Devices">
+            <StackPanel>
+                <Image Source="/Assets/setup.png"  Height="50" Width="50"/>
+                <TextBlock Text="Devices" VerticalAlignment="Bottom" />
+            </StackPanel>
+        </Button>
+    </Grid>
+</Page>

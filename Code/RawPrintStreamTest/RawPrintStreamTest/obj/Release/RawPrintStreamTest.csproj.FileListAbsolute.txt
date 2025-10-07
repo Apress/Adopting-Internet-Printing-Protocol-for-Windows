@@ -1,0 +1,22 @@
+D:\BACKUP\IPP Book\Chapter Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.exe.config
+D:\BACKUP\IPP Book\Chapter Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.exe
+D:\BACKUP\IPP Book\Chapter Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.pdb
+D:\BACKUP\IPP Book\Chapter Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chapter Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chapter Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chapter Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.exe
+D:\BACKUP\IPP Book\Chapter Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.exe.config
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.exe
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.exe
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.pdb
+H:\Book\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.exe.config
+H:\Book\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.exe
+H:\Book\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\bin\Release\RawPrintStreamTest.pdb
+H:\Book\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.csproj.AssemblyReference.cache
+H:\Book\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.csproj.CoreCompileInputs.cache
+H:\Book\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.exe
+H:\Book\IPP Book\Chap 1 Windows Print\Code\RawPrintStreamTest\RawPrintStreamTest\obj\Release\RawPrintStreamTest.pdb

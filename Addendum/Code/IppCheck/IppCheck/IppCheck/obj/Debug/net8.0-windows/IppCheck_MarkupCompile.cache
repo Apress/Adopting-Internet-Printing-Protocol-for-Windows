@@ -1,0 +1,20 @@
+﻿IppCheck
+1.0.7.1
+
+winexe
+C#
+.cs
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\obj\Debug\net8.0-windows\
+IppCheck
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\BACKUP\IPP Book\Work\IPPCheck Code\IppCheck\IppCheck\IppCheck\App.xaml
+10250430018
+1-1196054449
+481932724406
+224139678997
+Views\ConsumablesWindow.xaml;Views\InformationWindow.xaml;Views\JobAttributesFileWindow.xaml;Views\JobCreationWindow.xaml;Views\MainWindow.xaml;Views\PrintersListWindow.xaml;Views\RequestErrorWindow.xaml;Views\RequestWindow.xaml;Views\SetupWindow.xaml;Views\TestParametersWindow.xaml;
+
+False
+

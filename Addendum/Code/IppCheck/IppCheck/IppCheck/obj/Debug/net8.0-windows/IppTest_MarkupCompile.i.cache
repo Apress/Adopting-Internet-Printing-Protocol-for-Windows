@@ -1,0 +1,20 @@
+﻿IppTest
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\
+IppTest
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\App.xaml
+10250430018
+1-1787873202
+501129065511
+224306613421
+Views\ConsumablesWindow.xaml;Views\InformationWindow.xaml;Views\JobAttributesFileWindow.xaml;Views\JobCreationWindow.xaml;Views\MainWindow.xaml;Views\PrintersListWindow.xaml;Views\RequestErrorWindow.xaml;Views\RequestWindow.xaml;Views\SetupWindow.xaml;Views\TestParametersWindow.xaml;
+
+True
+

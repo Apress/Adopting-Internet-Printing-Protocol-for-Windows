@@ -1,0 +1,28 @@
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.exe.config
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.exe
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\bin\x64\Release\SnmpSharpNet.dll
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.csproj.CopyComplete
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.exe
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.exe.config
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.exe
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\bin\x64\Release\SnmpSharpNet.dll
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.exe
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterI.06F4994E.Up2Date
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.exe.config
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.exe
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\bin\x64\Release\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\bin\x64\Release\SnmpSharpNet.dll
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterI.06F4994E.Up2Date
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.exe
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x64\Release\PrinterInfo.pdb

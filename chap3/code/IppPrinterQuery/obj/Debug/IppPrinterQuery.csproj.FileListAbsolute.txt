@@ -1,0 +1,14 @@
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\IppPrinterQuery\bin\Debug\IppPrinterQuery.exe.config
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\IppPrinterQuery\bin\Debug\IppPrinterQuery.exe
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\IppPrinterQuery\bin\Debug\IppPrinterQuery.pdb
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\IppPrinterQuery\obj\Debug\IppPrinterQuery.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\IppPrinterQuery\obj\Debug\IppPrinterQuery.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\IppPrinterQuery\obj\Debug\IppPrinterQuery.exe
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\IppPrinterQuery\obj\Debug\IppPrinterQuery.pdb
+D:\BACKUP\IPP Book\Chap3\code\IppPrinterQuery\bin\Debug\IppPrinterQuery.exe.config
+D:\BACKUP\IPP Book\Chap3\code\IppPrinterQuery\bin\Debug\IppPrinterQuery.exe
+D:\BACKUP\IPP Book\Chap3\code\IppPrinterQuery\bin\Debug\IppPrinterQuery.pdb
+D:\BACKUP\IPP Book\Chap3\code\IppPrinterQuery\obj\Debug\IppPrinterQuery.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\IppPrinterQuery\obj\Debug\IppPrinterQuery.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\IppPrinterQuery\obj\Debug\IppPrinterQuery.exe
+D:\BACKUP\IPP Book\Chap3\code\IppPrinterQuery\obj\Debug\IppPrinterQuery.pdb

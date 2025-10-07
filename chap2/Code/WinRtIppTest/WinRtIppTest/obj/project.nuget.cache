@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8x1Yjq40T0=",
+  "success": true,
+  "projectFilePath": "D:\\BACKUP\\IPP Book\\Apress\\Chap2Code\\Code\\WinRtIppTest\\WinRtIppTest\\WinRtIppTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.26100.1742\\microsoft.windows.sdk.contracts.10.0.26100.1742.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

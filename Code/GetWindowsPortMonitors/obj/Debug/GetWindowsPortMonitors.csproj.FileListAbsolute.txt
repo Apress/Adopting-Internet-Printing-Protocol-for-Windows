@@ -1,0 +1,15 @@
+H:\Book\IPP Book\Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.csproj.AssemblyReference.cache
+H:\Book\IPP Book\Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.csproj.SuggestedBindingRedirects.cache
+H:\Book\IPP Book\Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.csproj.CoreCompileInputs.cache
+H:\Book\IPP Book\Windows Print\Code\GetWindowsPortMonitors\bin\Debug\GetWindowsPortMonitors.exe.config
+H:\Book\IPP Book\Windows Print\Code\GetWindowsPortMonitors\bin\Debug\GetWindowsPortMonitors.exe
+H:\Book\IPP Book\Windows Print\Code\GetWindowsPortMonitors\bin\Debug\GetWindowsPortMonitors.pdb
+H:\Book\IPP Book\Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.exe
+H:\Book\IPP Book\Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\GetWindowsPortMonitors\bin\Debug\GetWindowsPortMonitors.exe.config
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\GetWindowsPortMonitors\bin\Debug\GetWindowsPortMonitors.exe
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\GetWindowsPortMonitors\bin\Debug\GetWindowsPortMonitors.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.exe
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\GetWindowsPortMonitors\obj\Debug\GetWindowsPortMonitors.pdb

@@ -1,0 +1,14 @@
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\x64\Release\CS_GPA_CH3.exe.config
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\x64\Release\CS_GPA_CH3.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\x64\Release\CS_GPA_CH3.pdb
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\x64\Release\CS_GPA_CH3.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\x64\Release\CS_GPA_CH3.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\x64\Release\CS_GPA_CH3.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\x64\Release\CS_GPA_CH3.pdb
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\x64\Release\CS_GPA_CH3.exe.config
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\x64\Release\CS_GPA_CH3.exe
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\bin\x64\Release\CS_GPA_CH3.pdb
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\x64\Release\CS_GPA_CH3.csproj.AssemblyReference.cache
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\x64\Release\CS_GPA_CH3.csproj.CoreCompileInputs.cache
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\x64\Release\CS_GPA_CH3.exe
+H:\Book\IPP Book\Chap3\code\LibCups\CS_GPA_CH3\obj\x64\Release\CS_GPA_CH3.pdb

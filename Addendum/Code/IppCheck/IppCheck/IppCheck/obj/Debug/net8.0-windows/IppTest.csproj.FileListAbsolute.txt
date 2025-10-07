@@ -1,0 +1,144 @@
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.csproj.AssemblyReference.cache
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\InformationWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\JobAttributesFileWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\PrintersListWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\RequestErrorWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\SetupWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\TestParametersWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest_MarkupCompile.cache
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest_MarkupCompile.lref
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.exe
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.dll.config
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.deps.json
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.runtimeconfig.json
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.pdb
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\MicroMvvm.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\App.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\InformationWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\JobAttributesFileWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\PrintersListWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\RequestErrorWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\SetupWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\TestParametersWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.g.resources
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.AssemblyInfoInputs.cache
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.AssemblyInfo.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.csproj.CoreCompileInputs.cache
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.csproj.Up2Date
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\refint\IppTest.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.pdb
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.genruntimeconfig.cache
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\ref\IppTest.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest_Content.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\CsIppRequestLib.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\IppTestPage.pdf
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\RequestWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\RequestWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\Graphics\baseprinter.png
+C:\Users\778220\gitrepos\IppTest\IppTest\bin\Debug\net8.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\ConsumablesWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\ConsumablesWindow.baml
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\JobCreationWindow.g.cs
+C:\Users\778220\gitrepos\IppTest\IppTest\obj\Debug\net8.0-windows\Views\JobCreationWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\IppTestPage.pdf
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.exe
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Graphics\baseprinter.png
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.dll.config
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.deps.json
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.runtimeconfig.json
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\IppTest.pdb
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.forms.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.io.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.layout.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.sign.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.svg.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\itext.commons.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\bin\Debug\net8.0-windows\MicroMvvm.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\ConsumablesWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\InformationWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\JobAttributesFileWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\JobCreationWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\PrintersListWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\RequestErrorWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\RequestWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\SetupWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\TestParametersWindow.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\App.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest_Content.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest_MarkupCompile.cache
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest_MarkupCompile.lref
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\App.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\ConsumablesWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\InformationWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\JobAttributesFileWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\JobCreationWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\PrintersListWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\RequestErrorWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\RequestWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\SetupWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\Views\TestParametersWindow.baml
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.g.resources
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.AssemblyInfoInputs.cache
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.AssemblyInfo.cs
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.csproj.Up2Date
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\refint\IppTest.dll
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.pdb
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\IppTest.genruntimeconfig.cache
+D:\BACKUP\IPP Book\Chapter 10 Additional Info\Code\IppTest\IppTest\IppTest\obj\Debug\net8.0-windows\ref\IppTest.dll

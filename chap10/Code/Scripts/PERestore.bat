@@ -1,0 +1,1 @@
+C:\Windows\System32\spool\tools\PrintBrm.exe -r -f %TEMP%\%USERNAME%.printerExport

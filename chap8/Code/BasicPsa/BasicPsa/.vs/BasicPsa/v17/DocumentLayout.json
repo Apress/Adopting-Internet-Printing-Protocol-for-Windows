@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\views\\jobprintticketview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\views\\jobprintticketview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\views\\jobprintticketview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\views\\jobprintticketview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\basicpsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\basicpsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\print\\ipp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\print\\ipp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\io\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\io\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\views\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\views\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\views\\defaultsettingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\views\\defaultsettingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\views\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\views\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\basicpsa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\basicpsa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\helpers\\commondialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\helpers\\commondialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\views\\defaultsettingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\views\\defaultsettingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|d:\\backup\\ipp book\\chapter 8 psa\\code\\basicpsa\\basicpsa\\basicpsa\\helpers\\specialfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FC8EDE-E52F-4FFC-8E4C-2D1C13B90F3D}|BasicPsa\\BasicPsa.csproj|solutionrelative:basicpsa\\helpers\\specialfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "BasicPsa\\Package.appxmanifest",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Package.appxmanifest",
+              "RelativeToolTip": "BasicPsa\\Package.appxmanifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-07-20T15:31:44.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicPsa",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\BasicPsa.csproj",
+              "RelativeDocumentMoniker": "BasicPsa\\BasicPsa.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\BasicPsa.csproj",
+              "RelativeToolTip": "BasicPsa\\BasicPsa.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T21:39:12.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonDialogs.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Helpers\\CommonDialogs.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\Helpers\\CommonDialogs.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Helpers\\CommonDialogs.cs",
+              "RelativeToolTip": "BasicPsa\\Helpers\\CommonDialogs.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:39:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\Views\\MainPage.xaml.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "BasicPsa\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:40:57.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobPrintTicketView.xaml.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\JobPrintTicketView.xaml.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\Views\\JobPrintTicketView.xaml.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\JobPrintTicketView.xaml.cs",
+              "RelativeToolTip": "BasicPsa\\Views\\JobPrintTicketView.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAswHEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:34:43.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DefaultSettingView.xaml.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\DefaultSettingView.xaml.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\Views\\DefaultSettingView.xaml.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\DefaultSettingView.xaml.cs",
+              "RelativeToolTip": "BasicPsa\\Views\\DefaultSettingView.xaml.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAUwK4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:07:53.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasicPsa.csproj",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\BasicPsa.csproj",
+              "RelativeDocumentMoniker": "BasicPsa\\BasicPsa.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\BasicPsa.csproj",
+              "RelativeToolTip": "BasicPsa\\BasicPsa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T18:07:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\App.xaml.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\App.xaml.cs",
+              "RelativeToolTip": "BasicPsa\\App.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:32:50.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobPrintTicketView.xaml",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\JobPrintTicketView.xaml",
+              "RelativeDocumentMoniker": "BasicPsa\\Views\\JobPrintTicketView.xaml",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\JobPrintTicketView.xaml",
+              "RelativeToolTip": "BasicPsa\\Views\\JobPrintTicketView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T00:34:41.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestPage.xaml",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\TestPage.xaml",
+              "RelativeDocumentMoniker": "BasicPsa\\Views\\TestPage.xaml",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\TestPage.xaml",
+              "RelativeToolTip": "BasicPsa\\Views\\TestPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T18:16:27.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestPage.xaml.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\TestPage.xaml.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\Views\\TestPage.xaml.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\TestPage.xaml.cs",
+              "RelativeToolTip": "BasicPsa\\Views\\TestPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:18:17.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ipp.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Print\\Ipp.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\Print\\Ipp.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Print\\Ipp.cs",
+              "RelativeToolTip": "BasicPsa\\Print\\Ipp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:14:13.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DefaultSettingView.xaml",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\DefaultSettingView.xaml",
+              "RelativeDocumentMoniker": "BasicPsa\\Views\\DefaultSettingView.xaml",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\DefaultSettingView.xaml",
+              "RelativeToolTip": "BasicPsa\\Views\\DefaultSettingView.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD8AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T00:42:08.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BasicPsa\\Views\\MainPage.xaml",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Views\\MainPage.xaml",
+              "RelativeToolTip": "BasicPsa\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T16:48:13.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\App.xaml",
+              "RelativeDocumentMoniker": "BasicPsa\\App.xaml",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\App.xaml",
+              "RelativeToolTip": "BasicPsa\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T01:32:46.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SpecialFeature.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Helpers\\SpecialFeature.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\Helpers\\SpecialFeature.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\Helpers\\SpecialFeature.cs",
+              "RelativeToolTip": "BasicPsa\\Helpers\\SpecialFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:32:06.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\IO\\Storage.cs",
+              "RelativeDocumentMoniker": "BasicPsa\\IO\\Storage.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\IO\\Storage.cs",
+              "RelativeToolTip": "BasicPsa\\IO\\Storage.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwEUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:15:23.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

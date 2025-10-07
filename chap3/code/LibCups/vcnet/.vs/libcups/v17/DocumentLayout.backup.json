@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CS_GPA_CH3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2465F1FD-B39E-4428-9FBA-6BC9B55361E6}|..\\CS_GPA_CH3\\CS_GPA_CH3.csproj|d:\\backup\\ipp book\\chap3\\code\\libcups\\cs_gpa_ch3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB225F5F-F881-4308-9257-452469079CEB}|WinIpp.vcxproj|D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIpp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB225F5F-F881-4308-9257-452469079CEB}|WinIpp.vcxproj|solutionrelative:WinIpp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB225F5F-F881-4308-9257-452469079CEB}|WinIpp.vcxproj|D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB225F5F-F881-4308-9257-452469079CEB}|WinIpp.vcxproj|solutionrelative:WinIpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AA1D89-5D17-4B00-A0F2-11E2694CB093}|WinIppTest.vcxproj|D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIppTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88AA1D89-5D17-4B00-A0F2-11E2694CB093}|WinIppTest.vcxproj|solutionrelative:WinIppTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AA1D89-5D17-4B00-A0F2-11E2694CB093}|WinIppTest.vcxproj|D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIppTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88AA1D89-5D17-4B00-A0F2-11E2694CB093}|WinIppTest.vcxproj|solutionrelative:WinIppTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\WinIppPinvokeMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\IppPrinterQuery\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CS_Multi_Check||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\CS_Multi_Check\\Defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CS_GPA_CH3_WPF||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AA1D89-5D17-4B00-A0F2-11E2694CB093}|WinIppTest.vcxproj|D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\JobAttributes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88AA1D89-5D17-4B00-A0F2-11E2694CB093}|WinIppTest.vcxproj|solutionrelative:JobAttributes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\PInvoke\\WinIppPinvokeMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Collections\\PrintMarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\ViewModels\\MainWindowViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\pInvoke\\WinIppPinvokeMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Helpers\\MarkerProperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Interfaces\\IViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Events\\AutoBindEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\Consts\\Defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Collections\\PrintMarkerCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Views\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Views\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Libs\\MicroMvvm.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Consts\\Defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\Defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\cups-private.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cups-private.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2465F1FD-B39E-4428-9FBA-6BC9B55361E6}|..\\CS_GPA_CH3\\CS_GPA_CH3.csproj|d:\\backup\\ipp book\\chap3\\code\\libcups\\cs_gpa_ch3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\CS_GPA_CH3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CS_GPA_CH3\\Program.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\CS_GPA_CH3\\Program.cs",
+              "RelativeToolTip": "..\\CS_GPA_CH3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:30:57.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "cups-private.h",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\cups-private.h",
+              "RelativeDocumentMoniker": "cups-private.h",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\cups-private.h",
+              "RelativeToolTip": "cups-private.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T21:27:20.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrintMarker.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Collections\\PrintMarker.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Collections\\PrintMarker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WinIppPinvokeMethods.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\WinIppPinvokeMethods.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\WinIppPinvokeMethods.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WinIppPinvokeMethods.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\pInvoke\\WinIppPinvokeMethods.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\pInvoke\\WinIppPinvokeMethods.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinIppTest.cpp",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIppTest.cpp",
+              "RelativeDocumentMoniker": "WinIppTest.cpp",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIppTest.cpp",
+              "RelativeToolTip": "WinIppTest.cpp",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAANYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T15:11:46.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "__msvc_string_view.hpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAAAIQBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-15T14:05:16.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MarkerProperties.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Helpers\\MarkerProperties.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Helpers\\MarkerProperties.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WinIppPinvokeMethods.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\PInvoke\\WinIppPinvokeMethods.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\PInvoke\\WinIppPinvokeMethods.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IViewModel.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Interfaces\\IViewModel.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Interfaces\\IViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\Program.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\IppPrinterQuery\\Program.cs",
+              "ToolTip": "C:\\Temp\\Test\\IppPrinterQuery\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:55:21.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Defines.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\CS_Multi_Check\\Defines.cs",
+              "RelativeDocumentMoniker": "..\\CS_Multi_Check\\Defines.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\CS_Multi_Check\\Defines.cs",
+              "RelativeToolTip": "..\\CS_Multi_Check\\Defines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:29:06.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoBindEvents.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Events\\AutoBindEvents.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Events\\AutoBindEvents.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\Program.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Defines.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\Consts\\Defines.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\Consts\\Defines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\App.xaml",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T15:11:46.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PrintMarkerCollection.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Collections\\PrintMarkerCollection.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Collections\\PrintMarkerCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T15:11:46.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvxgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MicroMvvm.dll",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Libs\\MicroMvvm.dll",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Libs\\MicroMvvm.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-12-09T15:11:46.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\App.config",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T15:11:46.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Defines.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Consts\\Defines.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\Consts\\Defines.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Defines.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\Defines.cs",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3\\Defines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:11:46.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinIppTest.h",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIppTest.h",
+              "RelativeDocumentMoniker": "WinIppTest.h",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIppTest.h",
+              "RelativeToolTip": "WinIppTest.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-15T14:50:57.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinIpp.cpp",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIpp.cpp",
+              "RelativeDocumentMoniker": "WinIpp.cpp",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIpp.cpp",
+              "RelativeToolTip": "WinIpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T15:11:46.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinIpp.h",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIpp.h",
+              "RelativeDocumentMoniker": "WinIpp.h",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\WinIpp.h",
+              "RelativeToolTip": "WinIpp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-09T15:11:46.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CS_Multi_Check",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\CS_Multi_Check.csproj",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_Multi_Check\\CS_Multi_Check.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T14:06:20.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS_GPA_CH3",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\CS_GPA_CH3\\CS_GPA_CH3.csproj",
+              "RelativeDocumentMoniker": "..\\CS_GPA_CH3\\CS_GPA_CH3.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\CS_GPA_CH3\\CS_GPA_CH3.csproj",
+              "RelativeToolTip": "..\\CS_GPA_CH3\\CS_GPA_CH3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-03T00:35:27.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CS_GPA_CH3_WPF",
+              "DocumentMoniker": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\CS_GPA_CH3_WPF.csproj",
+              "ToolTip": "C:\\Temp\\Test\\LibCups\\CS_GPA_CH3_WPF\\CS_GPA_CH3_WPF.csproj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADrSURBVDhPxZKxasJQFIY/QxwySvbiUxQJjn2E2EFnhzsGn8E5bgl0cDJ2yAsEdzsIeQGdnbyTUkhouJ0KuTdwSxHqtxz4zzn/\u002BYcDj6YHIIRQUkqzZ8X3fZIk6bkAUkriODZnrERRBIBjNv6KZlA3NauPFZP3CbN8xu60AyB4C7TaRjNIDynX6kr2mrEJN4yH486yaaIZFMcC8SzoO30APNdjP98DdOoPmkH1VeE6blvqXLYmGD2NWJdrGtWglOJW3zqXrQkWwYLL54VwGzLNp5TnEizLAFregTdg\u002BbJsS79y9x/c/cqm/v98A70bWutZdOEYAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-12-06T17:03:15.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobAttributes.cpp",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\JobAttributes.cpp",
+              "RelativeDocumentMoniker": "JobAttributes.cpp",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\Chap3\\code\\LibCups\\vcnet\\JobAttributes.cpp",
+              "RelativeToolTip": "JobAttributes.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T15:11:46.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

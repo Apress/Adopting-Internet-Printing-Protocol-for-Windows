@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "BtIVp/Ifmrc=",
+  "success": true,
+  "projectFilePath": "D:\\BACKUP\\IPP Book\\Chapter 8 PSA\\Code\\BasicPsa\\BasicPsa\\BasicPsa\\BasicPsa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.4\\microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.6\\microsoft.net.illink.tasks.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.3233\\microsoft.windows.sdk.buildtools.10.0.22621.3233.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.windows.sdk.buildtools.msix\\1.2.20250107.1\\microsoft.windows.sdk.buildtools.msix.1.2.20250107.1.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\runtime.win-arm64.microsoft.dotnet.ilcompiler\\9.0.4\\runtime.win-arm64.microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\runtime.win-x86.microsoft.dotnet.ilcompiler\\9.0.4\\runtime.win-x86.microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.6\\microsoft.netcore.app.runtime.win-x86.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.57\\microsoft.windows.sdk.net.ref.10.0.26100.57.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\9.0.6\\microsoft.aspnetcore.app.runtime.win-x86.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\9.0.6\\microsoft.netcore.app.runtime.win-arm64.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.6\\microsoft.aspnetcore.app.runtime.win-x64.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\9.0.6\\microsoft.windowsdesktop.app.runtime.win-arm64.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\9.0.6\\microsoft.aspnetcore.app.runtime.win-arm64.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.6\\microsoft.netcore.app.runtime.win-x64.9.0.6.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\9.0.6\\microsoft.windowsdesktop.app.runtime.win-x86.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\GetPrinterAttributesRequest\bin\Debug\GetPrinterAttributesRequest.exe.config
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\GetPrinterAttributesRequest\bin\Debug\GetPrinterAttributesRequest.exe
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\GetPrinterAttributesRequest\bin\Debug\GetPrinterAttributesRequest.pdb
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\GetPrinterAttributesRequest\obj\Debug\GetPrinterAttributesRequest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\GetPrinterAttributesRequest\obj\Debug\GetPrinterAttributesRequest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\GetPrinterAttributesRequest\obj\Debug\GetPrinterAttributesRequest.exe
+D:\BACKUP\IPP Book\Apress\Chap3Code\Code\GetPrinterAttributesRequest\obj\Debug\GetPrinterAttributesRequest.pdb
+D:\BACKUP\IPP Book\Chap3\code\GetPrinterAttributesRequest\bin\Debug\GetPrinterAttributesRequest.exe.config
+D:\BACKUP\IPP Book\Chap3\code\GetPrinterAttributesRequest\bin\Debug\GetPrinterAttributesRequest.exe
+D:\BACKUP\IPP Book\Chap3\code\GetPrinterAttributesRequest\bin\Debug\GetPrinterAttributesRequest.pdb
+D:\BACKUP\IPP Book\Chap3\code\GetPrinterAttributesRequest\obj\Debug\GetPrinterAttributesRequest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\GetPrinterAttributesRequest\obj\Debug\GetPrinterAttributesRequest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\GetPrinterAttributesRequest\obj\Debug\GetPrinterAttributesRequest.exe
+D:\BACKUP\IPP Book\Chap3\code\GetPrinterAttributesRequest\obj\Debug\GetPrinterAttributesRequest.pdb

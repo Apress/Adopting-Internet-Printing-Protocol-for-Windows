@@ -1,0 +1,180 @@
+#
+# Common makefile definitions for libcups.
+#
+# Copyright © 2021-2023 by OpenPrinting.
+#
+# Licensed under Apache License v2.0.  See the file "LICENSE" for more
+# information.
+#
+
+#
+# This is a POSIX makefile
+#
+
+.POSIX:
+
+
+#
+# CUPS version...
+#
+
+LIBCUPS_VERSION		=	@LIBCUPS_VERSION@
+LIBCUPS_VERSION_MAJOR	=	@LIBCUPS_VERSION_MAJOR@
+LIBCUPS_VERSION_MINOR	=	@LIBCUPS_VERSION_MINOR@
+
+
+#
+# Programs...
+#
+
+AR		=	@AR@
+CC		=	@CC@
+INSTALL		=	@INSTALL@
+LN		=	@LN@ -sf
+MKDIR           =       @MKDIR@ -p
+RANLIB		=	@RANLIB@
+RM		=	@RM@ -f
+RMDIR		=	@RMDIR@
+SHELL		=	/bin/sh
+
+
+#
+# Installation programs...
+#
+
+INSTALL_BIN	=	$(INSTALL) -c -m 755
+INSTALL_DATA	=	$(INSTALL) -c -m 444
+INSTALL_DIR	=	$(INSTALL) -d -m 755
+INSTALL_LIB	=	$(INSTALL) -c -m 755
+INSTALL_MAN	=	$(INSTALL) -c -m 444
+
+
+#
+# Cross-compilation support: "local" target is used for any tools that are
+# built and run locally.
+#
+
+LOCALTARGET     =       @LOCALTARGET@
+
+
+#
+# Libraries...
+#
+
+CUPS_PC		=	@CUPS_PC@
+LIBCUPS		=	@LIBCUPS@
+LIBCUPS_STATIC	=	@LIBCUPS_STATIC@
+LINKCUPS	=	-L../cups @LINKCUPS@
+
+
+#
+# Install static libraries?
+#
+
+INSTALL_STATIC	=	@INSTALL_STATIC@
+
+
+#
+# Code signing...
+#
+
+CODE_SIGN	=	@CODE_SIGN@
+CODESIGN_IDENTITY =	-
+CSFLAGS		=	-s "$(CODESIGN_IDENTITY)" @CSFLAGS@ --timestamp
+
+
+#
+# Library archiver...
+#
+
+ARFLAGS		=	@ARFLAGS@
+
+
+#
+# C compiler and preprocessor...
+#
+
+CFLAGS		=	@CFLAGS@
+CPPFLAGS	=	@CPPFLAGS@
+WARNINGS	=	@WARNINGS@
+
+
+#
+# Linker options...
+#
+
+LIBS		=	@LIBS@ -lz -lm
+DSOFLAGS	=	@DSOFLAGS@
+LDFLAGS		=	@LDFLAGS@
+
+
+#
+# Optimization and architecture options for both the compiler and linker.
+#
+
+OPTIM		=	@OPTIM@
+
+
+#
+# Library options:
+#
+# - DEBUG
+#   Support for debug logging via the CUPS_DEBUG_{FILTER,LEVEL,LOG} environment
+#   variables.
+#
+# - DEBUG_GUARDS
+#   Support for guard bytes for allocated structures and values.
+#
+
+OPTIONS		=	@OPTIONS@
+
+
+#
+# Directories...
+#
+# The first section uses the GNU names (which are *extremely*
+# difficult to find in a makefile because they are lowercase...)
+# We have to define these first because autoconf uses ${prefix}
+# and ${exec_prefix} for most of the other directories...
+#
+# The "datarootdir" variable may not get defined if you are using
+# a version of autoconf prior to 2.60.
+#
+# This is immediately followed by definition in ALL CAPS for the
+# needed directories...
+#
+
+bindir		=	@bindir@
+datadir		=	@datadir@
+datarootdir	=	@datarootdir@
+exec_prefix	=	@exec_prefix@
+includedir	=	@includedir@
+infodir		=	@infodir@
+libdir		=	@libdir@
+libexecdir	=	@libexecdir@
+localstatedir	=	@localstatedir@
+mandir		=	@mandir@
+oldincludedir	=	@oldincludedir@
+prefix		=	@prefix@
+sbindir		=	@sbindir@
+sharedstatedir	=	@sharedstatedir@
+srcdir		=	@srcdir@
+sysconfdir	=	@sysconfdir@
+top_srcdir	=	@top_srcdir@
+
+CUPS_DATADIR	=	@CUPS_DATADIR@
+CUPS_SERVERROOT	=	@CUPS_SERVERROOT@
+
+BUILDROOT	=	$(DSTROOT)$(DESTDIR)
+
+
+#
+# Rules...
+#
+
+.SILENT:
+.SUFFIXES:	.a .c .cxx .h .o
+
+.c.o:
+	echo Compiling $<...
+	$(CC) -I.. -D_CUPS_SOURCE $(CPPFLAGS) $(OPTIONS) $(CFLAGS) $(OPTIM) $(WARNINGS) -c -o $@ $<

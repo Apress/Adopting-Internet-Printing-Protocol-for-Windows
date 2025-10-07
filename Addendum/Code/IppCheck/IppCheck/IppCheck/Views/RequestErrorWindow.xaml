@@ -1,0 +1,49 @@
+﻿<Window x:Class="IppCheck.RequestErrorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IppCheck"
+        mc:Ignorable="d"
+        Title="RequestErrorWindow" local:AutoBindEvents.IsAutoBindEvent="True" Height="450" Width="800" WindowStyle="None">
+    <Window.DataContext>
+        <local:RequestErrorWindowViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image Source="pack://application:,,,/IppCheck;component/Graphics/unreachablestatus.png" Grid.Row="0" Grid.Column="0" Height="80" Width="80"/>
+        <TextBlock Grid.Row="1" Grid.Column="0"  Text="Request Error Message:"  Width="150" Height="20" HorizontalAlignment="Center" 
+                   Style="{StaticResource MediumTextBlockStyle}" VerticalAlignment="Top"/>
+        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Text="{Binding ErrorMessage}"  Width="350" Height="60" HorizontalAlignment="Center" VerticalAlignment="Bottom" 
+                   Style="{StaticResource ErrorTextBlockStyle}" TextWrapping="WrapWithOverflow"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Ipp Status Code Message:"  Width="150" Height="20" HorizontalAlignment="Center" 
+                   Style="{StaticResource MediumTextBlockStyle}" VerticalAlignment="Top"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" Text="{Binding IppStatusCodeMessage}"  Width="350" Height="60" HorizontalAlignment="Center" VerticalAlignment="Bottom" 
+                   Style="{StaticResource ErrorTextBlockStyle}" TextWrapping="WrapWithOverflow"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Ipp Status Code:"  Width="100" Height="20" HorizontalAlignment="Left" 
+                   Style="{StaticResource MediumTextBlockStyle}" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="3" Grid.Column="1" Text="{Binding IppStatusCode}"  Width="50" Height="20" HorizontalAlignment="Left" VerticalAlignment="Center" 
+                   Style="{StaticResource ErrorTextBlockStyle}" TextWrapping="WrapWithOverflow"/>
+        <Button Grid.Row="4" Grid.Column="5" Command="{Binding ExitCommand}" ToolTip="Close Setup Window" Style="{StaticResource StdButtonStyle}">
+            <StackPanel>
+                <StackPanel>
+                    <Image Source="pack://application:,,,/IppCheck;component/Graphics/close.png" Style="{StaticResource StdButtonImageStyle}" />
+                    <Label Content="Close" Style="{StaticResource StdButtonImageLabel}" VerticalAlignment="Bottom"/>
+                </StackPanel>
+            </StackPanel>
+        </Button>
+    </Grid>
+</Window>

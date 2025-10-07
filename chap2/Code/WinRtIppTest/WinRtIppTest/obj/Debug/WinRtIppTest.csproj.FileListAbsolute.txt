@@ -1,0 +1,7 @@
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\WinRtIppTest\WinRtIppTest\bin\Debug\WinRtIppTest.exe.config
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\WinRtIppTest\WinRtIppTest\bin\Debug\WinRtIppTest.exe
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\WinRtIppTest\WinRtIppTest\bin\Debug\WinRtIppTest.pdb
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\WinRtIppTest\WinRtIppTest\obj\Debug\WinRtIppTest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\WinRtIppTest\WinRtIppTest\obj\Debug\WinRtIppTest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\WinRtIppTest\WinRtIppTest\obj\Debug\WinRtIppTest.exe
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\WinRtIppTest\WinRtIppTest\obj\Debug\WinRtIppTest.pdb

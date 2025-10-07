@@ -1,0 +1,15 @@
+C:\Development\Book\IPPRequests\bin\Debug\IPPRequests.exe.config
+C:\Development\Book\IPPRequests\bin\Debug\IPPRequests.exe
+C:\Development\Book\IPPRequests\bin\Debug\IPPRequests.pdb
+C:\Development\Book\IPPRequests\obj\Debug\IPPRequests.csproj.AssemblyReference.cache
+C:\Development\Book\IPPRequests\obj\Debug\IPPRequests.csproj.CoreCompileInputs.cache
+C:\Development\Book\IPPRequests\obj\Debug\IPPRequests.exe
+C:\Development\Book\IPPRequests\obj\Debug\IPPRequests.pdb
+D:\BACKUP\IPP Book\Chap3\IPPRequests\bin\Debug\IPPRequests.exe.config
+D:\BACKUP\IPP Book\Chap3\IPPRequests\bin\Debug\IPPRequests.exe
+D:\BACKUP\IPP Book\Chap3\IPPRequests\bin\Debug\IPPRequests.pdb
+D:\BACKUP\IPP Book\Chap3\IPPRequests\obj\Debug\IPPRequests.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\IPPRequests\obj\Debug\IPPRequests.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chap3\IPPRequests\obj\Debug\IPPRequests.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\IPPRequests\obj\Debug\IPPRequests.exe
+D:\BACKUP\IPP Book\Chap3\IPPRequests\obj\Debug\IPPRequests.pdb

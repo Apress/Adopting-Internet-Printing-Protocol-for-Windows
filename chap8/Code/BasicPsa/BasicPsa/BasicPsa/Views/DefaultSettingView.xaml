@@ -1,0 +1,81 @@
+﻿<Page
+    x:Class="BasicPsa.DefaultSettingView"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   xmlns:local="using:BasicPsa"
+   xmlns:printer="using:Windows.Graphics.Printing.PrintTicket"
+   xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   mc:Ignorable="d"
+   Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0"  Grid.Column="0">
+            <TextBlock Text="Print Orientation" Foreground="Blue"/>
+            <ComboBox x:Name="OrientationOptions" ItemsSource="{x:Bind OrientationFeatureOptions}" SelectedItem="{x:Bind SelectedOrientationOption, Mode=TwoWay}" Height="30" Width="150" 
+                       VerticalAlignment="Top">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate x:DataType="printer:PrintTicketOption">
+                        <StackPanel HorizontalAlignment="Left">
+                            <TextBlock Text="{x:Bind DisplayName}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="0"  Grid.Column="1">
+            <TextBlock Text="Print Page Resolution" Foreground="Blue"/>
+            <ComboBox x:Name="PageResultionOption" ItemsSource="{x:Bind PageResolutionFeatureOptions, Mode=TwoWay}" SelectedItem="{x:Bind SelectedPageResolutionOption, Mode=TwoWay}" Height="30" Width="150" 
+                       VerticalAlignment="Top">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate x:DataType="printer:PrintTicketOption">
+                        <StackPanel HorizontalAlignment="Left">
+                            <TextBlock Text="{x:Bind DisplayName}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="0"  Grid.Column="2">
+            <TextBlock Text="Print Duplexing" Foreground="Blue"/>
+            <ComboBox x:Name="DocumentDuplexingOption" ItemsSource="{x:Bind DocumentDuplexFeatureOptions , Mode=TwoWay}" SelectedItem="{x:Bind SelectedDocumentDuplexingOption, Mode=TwoWay}" Height="30" Width="150" 
+                VerticalAlignment="Top">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate x:DataType="printer:PrintTicketOption">
+                        <StackPanel HorizontalAlignment="Left">
+                            <TextBlock Text="{x:Bind DisplayName}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1"  Grid.Column="0">
+            <TextBlock Text="Print Collate" Foreground="Blue"/>
+            <ComboBox x:Name="DocumentCollateOption" ItemsSource="{x:Bind DocumentCollateFeatureOptions , Mode=TwoWay}" SelectedItem="{x:Bind SelectedDocumentCollateOption, Mode=TwoWay}" Height="30" Width="150" 
+         VerticalAlignment="Top">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate x:DataType="printer:PrintTicketOption">
+                        <StackPanel HorizontalAlignment="Left">
+                            <TextBlock Text="{x:Bind DisplayName}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <Button x:Name="Ok" Content="Ok" HorizontalAlignment="Left" Margin="50,0,0,0" VerticalAlignment="Top" Click="OkClicked"/>
+            <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="20,0,0,0" VerticalAlignment="Top" Click="CancelClicked"/>
+        </StackPanel>
+    </Grid>
+</Page>
+

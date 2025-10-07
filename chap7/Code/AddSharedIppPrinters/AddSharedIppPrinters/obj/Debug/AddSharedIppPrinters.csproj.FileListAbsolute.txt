@@ -1,0 +1,7 @@
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\AddSharedIppPrinters\AddSharedIppPrinters\bin\Debug\AddSharedIppPrinters.exe.config
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\AddSharedIppPrinters\AddSharedIppPrinters\bin\Debug\AddSharedIppPrinters.exe
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\AddSharedIppPrinters\AddSharedIppPrinters\bin\Debug\AddSharedIppPrinters.pdb
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\AddSharedIppPrinters\AddSharedIppPrinters\obj\Debug\AddSharedIppPrinters.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\AddSharedIppPrinters\AddSharedIppPrinters\obj\Debug\AddSharedIppPrinters.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\AddSharedIppPrinters\AddSharedIppPrinters\obj\Debug\AddSharedIppPrinters.exe
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\AddSharedIppPrinters\AddSharedIppPrinters\obj\Debug\AddSharedIppPrinters.pdb

@@ -1,0 +1,7 @@
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\AddIppPrinter\bin\Debug\AddIppPrinter.exe.config
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\AddIppPrinter\bin\Debug\AddIppPrinter.exe
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\AddIppPrinter\bin\Debug\AddIppPrinter.pdb
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\AddIppPrinter\obj\Debug\AddIppPrinter.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\AddIppPrinter\obj\Debug\AddIppPrinter.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\AddIppPrinter\obj\Debug\AddIppPrinter.exe
+D:\BACKUP\IPP Book\Apress\Chap2Code\Code\AddIppPrinter\obj\Debug\AddIppPrinter.pdb

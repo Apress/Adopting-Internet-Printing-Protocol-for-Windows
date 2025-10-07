@@ -1,0 +1,7 @@
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\CheckWppEnv\CheckWppEnv\bin\Release\CheckWppEnv.exe.config
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\CheckWppEnv\CheckWppEnv\bin\Release\CheckWppEnv.exe
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\CheckWppEnv\CheckWppEnv\bin\Release\CheckWppEnv.pdb
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\CheckWppEnv\CheckWppEnv\obj\Release\CheckWppEnv.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\CheckWppEnv\CheckWppEnv\obj\Release\CheckWppEnv.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\CheckWppEnv\CheckWppEnv\obj\Release\CheckWppEnv.exe
+D:\BACKUP\IPP Book\Apress\Chap7Code\Code\CheckWppEnv\CheckWppEnv\obj\Release\CheckWppEnv.pdb

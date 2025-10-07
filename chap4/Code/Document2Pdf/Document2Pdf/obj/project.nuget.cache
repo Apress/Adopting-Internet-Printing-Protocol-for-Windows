@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDMmP0ADuBFQ3aW0bKmpl5fUa+CiSu3BTClohWnnxnZDnL8I7pUsC1PfkoiTWJyrxjlWYGeT7ZOWX/RNHInsSQ==",
+  "success": true,
+  "projectFilePath": "D:\\BACKUP\\IPP Book\\Chap4 MS IPP Class Driver\\Code\\Document2Pdf\\Document2Pdf\\Document2Pdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpmsp\\.nuget\\packages\\freespire.doc\\12.2.0\\freespire.doc.12.2.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\freespire.xls\\14.2.0\\freespire.xls.14.2.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\skiasharp\\1.68.0\\skiasharp.1.68.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

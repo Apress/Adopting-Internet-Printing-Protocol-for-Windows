@@ -1,0 +1,21 @@
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.exe.config
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.pdb
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.pdb
+C:\Temp\Test\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.exe.config
+C:\Temp\Test\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.exe
+C:\Temp\Test\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.pdb
+C:\Temp\Test\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.csproj.AssemblyReference.cache
+C:\Temp\Test\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.csproj.CoreCompileInputs.cache
+C:\Temp\Test\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.exe
+C:\Temp\Test\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.pdb
+H:\Book\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.exe.config
+H:\Book\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.exe
+H:\Book\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\x64\Release\CS_Multi_Check.pdb
+H:\Book\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.csproj.AssemblyReference.cache
+H:\Book\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.csproj.CoreCompileInputs.cache
+H:\Book\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.exe
+H:\Book\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\x64\Release\CS_Multi_Check.pdb

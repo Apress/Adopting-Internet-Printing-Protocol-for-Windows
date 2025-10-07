@@ -1,0 +1,7 @@
+D:\BACKUP\IPP Book\Chap3\code\Powershell\Test\TestGpa\TestGpa\bin\Release\TestGpa.exe.config
+D:\BACKUP\IPP Book\Chap3\code\Powershell\Test\TestGpa\TestGpa\bin\Release\TestGpa.exe
+D:\BACKUP\IPP Book\Chap3\code\Powershell\Test\TestGpa\TestGpa\bin\Release\TestGpa.pdb
+D:\BACKUP\IPP Book\Chap3\code\Powershell\Test\TestGpa\TestGpa\obj\Release\TestGpa.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\Powershell\Test\TestGpa\TestGpa\obj\Release\TestGpa.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\Powershell\Test\TestGpa\TestGpa\obj\Release\TestGpa.exe
+D:\BACKUP\IPP Book\Chap3\code\Powershell\Test\TestGpa\TestGpa\obj\Release\TestGpa.pdb

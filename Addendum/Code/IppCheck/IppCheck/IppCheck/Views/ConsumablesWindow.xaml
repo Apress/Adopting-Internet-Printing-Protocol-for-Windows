@@ -1,0 +1,92 @@
+﻿<Window x:Class="IppCheck.ConsumablesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IppCheck"
+         xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=DotNetProjects.DataVisualization.Toolkit"
+        mc:Ignorable="d"
+            Title="ConsumablesWindow" local:AutoBindEvents.IsAutoBindEvent="True" Height="550" Width="800" WindowStyle="None">
+    <Window.DataContext>
+        <local:ConsumablesWindowViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <ResourceDictionary>
+            <BooleanToVisibilityConverter x:Key="Bool2Vis" />
+            <local:ReverseBooleanToVisibilityConverter x:Key="RevBool2Vis" />
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListView Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" Grid.ColumnSpan="4" ItemsSource="{Binding Path=Pmc.PrintMarkers}"
+                 ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Marker Property" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Name}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="High Level" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding StringHighLevel}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Low Level" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding StringLowLevel}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Current Level" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding StringLevel}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Image Grid.Row="0" Grid.Column="4" Source="pack://application:,,,/IPPUtil;component/Graphics/markerlevels.png" VerticalAlignment="Center" Width="100" Height="125" HorizontalAlignment="Center"/>
+        <Button Grid.Row="7" Grid.Column="0" Command="{Binding ExitCommand}" ToolTip="Close Setup Window" Style="{StaticResource StdButtonStyle}">
+            <StackPanel>
+                <StackPanel>
+                    <Image Source="pack://application:,,,/IppCheck;component/Graphics/close.png" Style="{StaticResource StdButtonImageStyle}" />
+                    <Label Content="Close" Style="{StaticResource StdButtonImageLabel}" VerticalAlignment="Bottom"/>
+                </StackPanel>
+            </StackPanel>
+        </Button>
+        <DVC:Chart Grid.Row="3" Grid.RowSpan="5" Grid.Column="1" Grid.ColumnSpan="4" Background="LightBlue" Foreground="DarkBlue" 
+                   Title="Printer Consumables" LegendTitle="Marker Levels">
+            <DVC:Chart.Series>
+                <DVC:BarSeries Title="Current Percent"    
+            ItemsSource="{Binding Path=Pmc.PrintMarkers}"  
+            IndependentValueBinding="{Binding Path=Name}"
+            DependentValueBinding="{Binding Path=Level}">
+                </DVC:BarSeries>
+            </DVC:Chart.Series>
+        </DVC:Chart>
+    </Grid>
+</Window>

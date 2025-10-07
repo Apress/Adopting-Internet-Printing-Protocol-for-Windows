@@ -1,0 +1,256 @@
+﻿<Window x:Class="IppCheck.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:tl="clr-namespace:System.Diagnostics;assembly=mscorlib"
+        xmlns:local="clr-namespace:IppCheck"
+        mc:Ignorable="d"
+        Title="IppCheck" local:AutoBindEvents.IsAutoBindEvent="True"  Height="580" Width="850">
+    <Window.DataContext>
+        <local:MainWindowViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <ResourceDictionary>
+            <BooleanToVisibilityConverter x:Key="Bool2Vis" />
+            <local:BoolToImageConverter x:Key="BoolToImageConv" />
+            <local:BoolToColorModeConverter x:Key="BoolToColorModeConv" />
+            <local:IppReachabilityConverter x:Key="IppConfigConverter" />
+            <local:BoolToIppUsabilityConverter x:Key="IppUsabilityConverter" />
+            <ControlTemplate x:Key="ValidationTemplate">
+                <DockPanel>
+                    <TextBlock Foreground="Red" FontSize="20">!</TextBlock>
+                    <AdornedElementPlaceholder/>
+                </DockPanel>
+            </ControlTemplate>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="2" Text="Printer to test:" Width="100" Height="20" HorizontalAlignment="Center" VerticalAlignment="Top"
+                    Style="{StaticResource MediumTextBlockStyle}"/>
+        <TextBox Grid.Row="0" Grid.Column="3" Grid.ColumnSpan="4"  Width="175" Height="20" Style="{StaticResource MediumTextBoxStyle}"
+                  ToolTip="Enter a printer name to query"  Validation.ErrorTemplate="{StaticResource ValidationTemplate}">
+            <TextBox.Text>
+                <Binding Path="TestPrinter" UpdateSourceTrigger="PropertyChanged">
+                    <Binding.ValidationRules>
+                        <local:MinLengthValidationRule MinLength="5"/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBlock Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="5" Text="IPP Printer Configuration Test Results"  Width="350" Height="40" HorizontalAlignment="Center" VerticalAlignment="Bottom" Style="{StaticResource HeaderTextBlockStyle}"/>
+        <TextBlock Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="5" Text="{Binding NumPrintersLoaded}"  Width="350" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource MediumTextBlockStyle}"/>
+        <Image Source="{Binding PrinterImage}" Grid.Column="0" Grid.Row="2" Height="80" Width="80"/>
+        <ListView Grid.Column="1" Grid.Row="2" Grid.RowSpan="3" Grid.ColumnSpan="8" ItemsSource="{Binding PrinterAttributesCollection}"
+                 ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" ToolTip="IPP Printer Properties"
+                   SelectedItem="{Binding SelectedPrinter}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Test" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding IppUsability, Converter={StaticResource BoolToImageConv}}" Height="30" Width="30"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Printer Name" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding QueryName}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="IPP Status" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding IppUsability, Converter={StaticResource IppUsabilityConverter}}" Height="35" Width="25"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Ipp Ver" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding IppVers}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Mopria" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Mopria}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Operations Supported" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <ComboBox SelectedItem="{Binding SelectedOperation, Mode=TwoWay}" ItemsSource="{Binding OperationsSupported}" MinWidth="75"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Manufacturer" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding IconUrl}" Height="40" Width="60"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Firmware" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Firmware}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Location" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Location}" Style="{StaticResource MediumTextBlockStyle}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Output" Width="auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Color, Converter={StaticResource BoolToColorModeConv}}" Height="40" Width="60"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Send Test Print" Command="{Binding TestPrintCommand}" >
+                        <MenuItem.Icon>
+                            <Image Width="20" Height="20" Source="pack://application:,,,/IppCheck;component/Graphics/testpage.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Connect" Command="{Binding ConnectCommand}" >
+                        <MenuItem.Icon>
+                            <Image Width="20" Height="20" Source="pack://application:,,,/IppCheck;component/Graphics/unreachable.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Validate Job" Command="{Binding ValidateCommand}" Visibility="{Binding JobAtttributesFileLoaded, Converter={StaticResource Bool2Vis}}">
+                        <MenuItem.Icon>
+                            <Image Width="20" Height="20" Source="pack://application:,,,/IppCheck;component/Graphics/validate.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="View Error" Command="{Binding ViewErrorCommand}" >
+                        <MenuItem.Icon>
+                            <Image Width="20" Height="20" Source="pack://application:,,,/IppCheck;component/Graphics/error.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="View Printer Attributes" Command="{Binding PrinterAttributesCommand}" >
+                        <MenuItem.Icon>
+                            <Image Width="20" Height="20" Source="pack://application:,,,/IppCheck;component/Graphics/attributes.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="View Printer Consumables" Command="{Binding ConsumablesCommand}" >
+                        <MenuItem.Icon>
+                            <Image Width="20" Height="20" Source="pack://application:,,,/IppCheck;component/Graphics/marker.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Job Creation Info" Command="{Binding JobCreationCommand}" >
+                        <MenuItem.Icon>
+                            <Image Width="20" Height="20" Source="pack://application:,,,/IppCheck;component/Graphics/job.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Identify Printer" Command="{Binding IdentifyPrinterCommand}" >
+                        <MenuItem.Icon>
+                            <Image Width="20" Height="20" Source="pack://application:,,,/IppCheck;component/Graphics/identify.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </ContextMenu>
+                
+            </ListView.ContextMenu>
+        </ListView>
+        <StackPanel Grid.Row="1" Grid.Column="8">
+            <TextBlock Text="IPP Version" Style="{StaticResource MediumTextBlockStyle}"/>
+            <ComboBox Grid.Row="1" Grid.Column="8" MinWidth="50" Height="20" IsEditable="False" ItemsSource="{Binding Versions}"
+                  SelectedItem="{Binding Version, Mode=TwoWay}" Style="{StaticResource ComboBoxSyle1}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="9">
+            <TextBlock Text="Defaults" Style="{StaticResource MediumTextBlockStyle}" HorizontalAlignment="Center"/>
+            <Button Grid.Row="0" Grid.Column="9" Command="{Binding SetupCommand}" ToolTip="Application Defaults Setup" Style="{StaticResource SmallButtonStyle}">
+                <StackPanel>
+                    <Image Source="pack://application:,,,/IppCheck;component/Graphics/setup.png" Style="{StaticResource SmallFillButtonImageStyle}" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="6">
+            <TextBlock Text="Printer List" Style="{StaticResource MediumTextBlockStyle}" HorizontalAlignment="Center"/>
+            <Button Grid.Row="0" Grid.Column="6" Command="{Binding PrintersListViewCommand}" Visibility="{Binding ListAvailable, Converter={StaticResource Bool2Vis}}" 
+                ToolTip="Printer List View" Style="{StaticResource SmallButtonStyle}">
+                <StackPanel>
+                    <Image Source="pack://application:,,,/IppCheck;component/Graphics/collection.png" Style="{StaticResource SmallFillButtonImageStyle}" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="8">
+            <TextBlock Text="Test Parameters" Style="{StaticResource MediumTextBlockStyle}" HorizontalAlignment="Left"/>
+            <Button Grid.Row="0" Grid.Column="8" Command="{Binding TestParamsCommand}" ToolTip="Test Parameters Setup" Style="{StaticResource SmallButtonStyle}">
+                <StackPanel>
+                    <Image Source="pack://application:,,,/IppCheck;component/Graphics/parameters.png"  Style="{StaticResource SmallFillButtonImageStyle}" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Button Grid.Row="6" Grid.Column="9" Command="{Binding ExitCommand}" ToolTip="Close Program" Style="{StaticResource StdButtonStyle}">
+            <StackPanel>
+                <Image Source="pack://application:,,,/IppCheck;component/Graphics/close.png" Style="{StaticResource StdButtonImageStyle}" />
+                <Label Content="Exit" Style="{StaticResource StdButtonImageLabel}" VerticalAlignment="Bottom"/>
+            </StackPanel>
+        </Button>
+        <Button Grid.Row="6" Grid.Column="0" Command="{Binding TestCommand}" ToolTip="Test" Style="{StaticResource StdButtonStyle}" 
+                Visibility="{Binding  ShowTestButton, Converter={StaticResource Bool2Vis}}" >
+            <StackPanel>
+                <Image Source="pack://application:,,,/IppCheck;component/Graphics/test.png" Style="{StaticResource StdButtonImageStyle}" />
+                <Label Content="Test" Style="{StaticResource StdButtonImageLabel}" VerticalAlignment="Bottom"/>
+            </StackPanel>
+        </Button>
+        <Button Grid.Row="6" Grid.Column="4" Command="{Binding CsvFileCommand}" ToolTip="Write CSV file" Style="{StaticResource StdButtonStyle}"
+                Visibility="{Binding CreateOutputCsvFile, Converter={StaticResource Bool2Vis}}">
+            <StackPanel>
+                <Image Source="pack://application:,,,/IppCheck;component/Graphics/csvfile.png" Style="{StaticResource StdButtonImageStyle}" />
+                <Label Content="CSV" Style="{StaticResource StdButtonImageLabel}" VerticalAlignment="Bottom"/>
+            </StackPanel>
+        </Button>
+        <StackPanel Grid.Row="1" Grid.Column="9">
+            <TextBlock Text="Job Data" Style="{StaticResource MediumTextBlockStyle}" HorizontalAlignment="Center"/>
+            <Button Grid.Row="1" Grid.Column="9" Command="{Binding JobAttributesCommand}" ToolTip="Print Job Attributes" Style="{StaticResource StdButtonStyle}"
+                Visibility="{Binding JobAttributesFileLoaded, Converter={StaticResource Bool2Vis}}">
+                <StackPanel>
+                    <Image Source="pack://application:,,,/IppCheck;component/Graphics/jobattributes.png" Style="{StaticResource StdButtonImageStyle}" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="7">
+            <TextBlock Text="IPP/IPPS" Style="{StaticResource MediumTextBlockStyle}" HorizontalAlignment="Left"/>
+            <ToggleButton Grid.Row="0" Grid.Column="7" ToolTip="Toggle IPPS On/Off" IsChecked="{Binding IPPS, Mode=TwoWay}" Style="{StaticResource SmallToggleButtonStyle}" HorizontalAlignment="Left">
+                <StackPanel>
+                    <Image Source="pack://application:,,,/IppCheck;component/Graphics/encrypted.png" Style="{StaticResource SmallFillButtonImageStyle}" />
+                </StackPanel>
+            </ToggleButton>
+        </StackPanel>
+    </Grid>
+</Window>

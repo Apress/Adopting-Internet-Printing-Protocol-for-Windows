@@ -1,0 +1,50 @@
+﻿  WinIpp.cpp
+D:\BACKUP\IPP Book\Chap3\code\LibCups\cups\raster-testpage.h(157,95): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\cups\raster-testpage.h(163,95): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\cups\raster-testpage.h(192,7): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(208,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(210,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(913,10): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(987,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(989,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(996,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(998,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(835,15): warning C4101: 'status': unreferenced local variable
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(1207,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(1272,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/WinIpp.cpp')
+  
+D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\WinIpp.cpp(1356,8): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  (compiling source file '/WinIpp.cpp')
+  
+     Creating library x64\Release\WinIpp.lib and object x64\Release\WinIpp.exp
+  Generating code
+  0 of 132 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WinIpp.vcxproj -> D:\BACKUP\IPP Book\Chap3\code\LibCups\vcnet\x64\Release\WinIpp.dll

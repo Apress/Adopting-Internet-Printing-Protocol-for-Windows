@@ -1,0 +1,39 @@
+D:\Development\SNMP\GetPrintStats\Test\bin\Debug\PrinterInfo.exe
+D:\Development\SNMP\GetPrintStats\Test\bin\Debug\PrinterInfo.pdb
+D:\Development\SNMP\GetPrintStats\Test\bin\Debug\SnmpSharpNet.dll
+D:\Development\SNMP\GetPrintStats\Test\obj\x86\Debug\PrinterInfo.exe
+D:\Development\SNMP\GetPrintStats\Test\obj\x86\Debug\PrinterInfo.pdb
+D:\Development\SNMP\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.exe
+D:\Development\SNMP\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.pdb
+D:\Development\SNMP\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.exe
+D:\Development\SNMP\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.pdb
+D:\Development\SNMP\PrinterInfo\PrinterInfo\bin\Debug\SnmpSharpNet.dll
+D:\Development\SNMP\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csprojResolveAssemblyReference.cache
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.exe.config
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.exe
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\bin\Debug\SnmpSharpNet.dll
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csproj.CopyComplete
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.exe
+D:\BACKUP\IPP Book\Temp\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.exe.config
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.exe
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\bin\Debug\SnmpSharpNet.dll
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.exe
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Chap 1 Windows Print\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterI.06F4994E.Up2Date
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.exe.config
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.exe
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\bin\Debug\PrinterInfo.pdb
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\bin\Debug\SnmpSharpNet.dll
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterI.06F4994E.Up2Date
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.exe
+D:\BACKUP\IPP Book\Apress\Chap1Code\Code\PrinterInfo\PrinterInfo\obj\x86\Debug\PrinterInfo.pdb

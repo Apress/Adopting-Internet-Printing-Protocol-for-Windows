@@ -1,0 +1,26 @@
+#
+# CUPS pkg-config file
+#
+# Copyright © 2021 by OpenPrinting.
+#
+# Licensed under Apache License v2.0.  See the file "LICENSE" for more
+# information.
+#
+
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+includedir=@includedir@
+libdir=@libdir@
+
+cups_api_version="@LIBCUPS_VERSION_MAJOR@.@LIBCUPS_VERSION_MINOR@"
+cups_build="cups-@LIBCUPS_VERSION@"
+
+Name: CUPS
+Description: CUPS API Library
+Version: @LIBCUPS_VERSION@
+URL: https://openprinting.github.io/cups/
+Cflags: @PKGCONFIG_CFLAGS@
+Libs: @PKGCONFIG_LIBS@
+Requires: @PKGCONFIG_REQUIRES@
+Libs.private: @PKGCONFIG_LIBS_PRIVATE@
+Requires.private: @PKGCONFIG_REQUIRES_PRIVATE@

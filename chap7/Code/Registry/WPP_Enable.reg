@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Printers\WPP]
+"EnabledBy"=dword:00000002
+"WindowsProtectedPrintGroupPolicyState"=dword:00000001
+"WindowsProtectedPrintMode"=dword:00000001
+"WindowsProtectedPrintOobeConfigComplete"=dword:00000001

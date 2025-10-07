@@ -1,0 +1,17 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="BasicPsa.Views.TestPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BasicPsa.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <CheckBox x:ConnectionId='2' Content="Edge ToEdge" Grid.Row="1" Grid.Column="1"                                           />
+
+        <Button x:ConnectionId='3'                      Width="100" Height="100" Background="Red" />
+    </StackPanel>
+</Page>
+

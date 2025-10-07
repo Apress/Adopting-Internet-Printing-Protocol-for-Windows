@@ -1,0 +1,30 @@
+C:\Development\Book\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.AssemblyReference.cache
+C:\Development\Book\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.CoreCompileInputs.cache
+C:\Development\Book\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.exe.config
+C:\Development\Book\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.exe
+C:\Development\Book\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.pdb
+C:\Development\Book\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.exe
+C:\Development\Book\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.pdb
+C:\Users\778220\GitRepos\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.exe.config
+C:\Users\778220\GitRepos\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.exe
+C:\Users\778220\GitRepos\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.pdb
+C:\Users\778220\GitRepos\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.AssemblyReference.cache
+C:\Users\778220\GitRepos\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.CoreCompileInputs.cache
+C:\Users\778220\GitRepos\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.exe
+C:\Users\778220\GitRepos\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.pdb
+D:\BACKUP\IPP Book\Chap3\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.exe.config
+D:\BACKUP\IPP Book\Chap3\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.exe
+D:\BACKUP\IPP Book\Chap3\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.pdb
+D:\BACKUP\IPP Book\Chap3\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chap3\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.exe
+D:\BACKUP\IPP Book\Chap3\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.pdb
+D:\BACKUP\IPP Book\Chap4\code\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.exe.config
+D:\BACKUP\IPP Book\Chap4\code\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.exe
+D:\BACKUP\IPP Book\Chap4\code\GetPrinterAttributesRequest\bin\Release\GetPrinterAttributesRequest.pdb
+D:\BACKUP\IPP Book\Chap4\code\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap4\code\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.SuggestedBindingRedirects.cache
+D:\BACKUP\IPP Book\Chap4\code\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap4\code\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.exe
+D:\BACKUP\IPP Book\Chap4\code\GetPrinterAttributesRequest\obj\Release\GetPrinterAttributesRequest.pdb

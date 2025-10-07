@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "BasicPsa": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

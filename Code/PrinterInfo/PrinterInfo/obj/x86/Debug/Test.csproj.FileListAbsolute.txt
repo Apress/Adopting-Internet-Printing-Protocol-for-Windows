@@ -1,0 +1,6 @@
+D:\Development\SNMP\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\SNMP\Test\Test\bin\Debug\Test.exe
+D:\Development\SNMP\Test\Test\bin\Debug\Test.pdb
+D:\Development\SNMP\Test\Test\bin\Debug\SnmpSharpNet.dll
+D:\Development\SNMP\Test\Test\obj\x86\Debug\Test.exe
+D:\Development\SNMP\Test\Test\obj\x86\Debug\Test.pdb

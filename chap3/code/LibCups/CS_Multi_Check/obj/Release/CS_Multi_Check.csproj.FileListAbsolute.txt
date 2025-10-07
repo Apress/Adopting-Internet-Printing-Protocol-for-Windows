@@ -1,0 +1,7 @@
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\Release\CS_Multi_Check.exe.config
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\Release\CS_Multi_Check.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\bin\Release\CS_Multi_Check.pdb
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\Release\CS_Multi_Check.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\Release\CS_Multi_Check.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\Release\CS_Multi_Check.exe
+D:\BACKUP\IPP Book\Chap3\code\LibCups\CS_Multi_Check\obj\Release\CS_Multi_Check.pdb

@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CsIppRequestLib
+namespace PinPrintLib
 {
     public static class AttributeHelper
     {
@@ -19,16 +19,15 @@ namespace CsIppRequestLib
                 return (byte)ValueTag.Keyword;
             if (_jal == "copies")
                 return (byte)ValueTag.Integer;
+            //-----------------------------------------
+            //Added 11/19/2025 for PIN print library
+            if (_jal == "media-type")
+                return (byte)ValueTag.Keyword;
+            if (_jal == "output-mode")
+                return (byte)ValueTag.Keyword;
+            //------------------------------------------
             if (_jal == "sides")
                 return (byte)ValueTag.Keyword;
-            if (_jal == "media-col")
-                return (byte)ValueTag.BegCollection;
-            if (_jal == "cover-col")
-                return (byte)ValueTag.BegCollection;
-            if (_jal == "job-sheets-col")
-                return (byte)ValueTag.BegCollection;
-            if (_jal == "finishing-template-col")
-                return (byte)ValueTag.BegCollection;
             if (_jal == "print-quality")
                 return (byte)ValueTag.Enum;
             if (_jal == "print-color-mode")
@@ -133,9 +132,20 @@ namespace CsIppRequestLib
         /// <summary>
         /// ProcessFile
         /// 
-        /// Split the job attributes file into lines, each specifying a job attribute..
+        /// Process the job attributes file provided by the user. This should be in the format :
+        /// 
+        /// Name=Value, i.e. 
+        /// copies=1
+        /// print-color-mode=monochrome
+        /// output-bin=face-down
+        /// print-quality=4
+        /// sides=two-sided-long-edge
+        /// orientation-requested=3
+        /// 
+        /// as an example of a file you could provide.
+        /// 
         /// </summary>
-        /// <param name="fileName"></param>
+        /// <param name="fileName">The name and path of the job attributes file foirmatted as above</param>
         /// <returns></returns>
         public static Dictionary<string, List<object>> ProcessFile(string fileName)
         {
@@ -148,6 +158,13 @@ namespace CsIppRequestLib
             return jobAttributes;
         }
 
+        /// <summary>
+        /// ProcessLine
+        /// 
+        /// Process each line of the job attributes file...
+        /// </summary>
+        /// <param name="line"></param>
+        /// <param name="jobAttributes"></param>
         private static void ProcessLine(string line, Dictionary<string, List<object>> jobAttributes)
         {
             var parts = line.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
@@ -168,33 +185,37 @@ namespace CsIppRequestLib
                     var parsedValue = ParseValue(value);
                     jobAttributes[key].Add(parsedValue);
                 }
-                else
-                {
-                    int pos = part.IndexOf('=');
-                    if (pos != -1)
-                    {
-                        string key = part.Substring(0, pos).Trim();
-                        string value = part.Substring(pos + 1).Trim();
-                        if (IsCollection(value) == true)
-                        {
-                            if (!jobAttributes.ContainsKey(key))
-                            {
-                                jobAttributes[key] = new List<object>();
-                                jobAttributes[key].Add(value);
-                            }
-                           
-                        }
-                    }
-                }
             }
         }
 
+        /// <summary>
+        /// ParseValue
+        /// 
+        /// Parses the line read from the job attributes file into a single 
+        /// object or a List of object(s).
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
         private static object ParseValue(string value)
         {
+            char c = (char)value[0];  
             if (value.Contains(","))
             {
                 //if the value contains a comma it is a list of values
                 var items = value.Split(',');
+                List<object> list = new List<object>();
+
+                foreach (var item in items)
+                {
+                    //recursively add items
+                    list.Add(ParseValue(item.Trim()));
+                }
+                return list;
+            }
+            else if ((Char.IsDigit(c))&&(value.Contains("-")))      //****Bug fix 12/5/2025 for page-ranges****
+            {
+                //if the value contains a dash it is a list of values
+                var items = value.Split('-');
                 List<object> list = new List<object>();
 
                 foreach (var item in items)
@@ -213,27 +234,6 @@ namespace CsIppRequestLib
                 //keep value as string
                 return value;
             }
-        }
-
-        /// <summary>
-        ///  IsCollection
-        /// </summary>
-        /// <param name="value"></param>
-        /// <returns></returns>
-        private static bool IsCollection(string value)
-        {
-            int openCount = 0;
-            int closeCount = 0;
-
-            foreach (char c in value)
-            {
-                if (c == '{')
-                    openCount++;
-                else if (c == '}')
-                    closeCount++;
-            }
-
-            return ((openCount == closeCount) && (openCount >= 1));
         }
     }
 }

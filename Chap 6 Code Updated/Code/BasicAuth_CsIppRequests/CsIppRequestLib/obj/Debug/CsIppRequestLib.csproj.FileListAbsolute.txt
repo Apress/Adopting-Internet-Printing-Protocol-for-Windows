@@ -1,0 +1,6 @@
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\BasicAuth_CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\BasicAuth_CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\BasicAuth_CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\BasicAuth_CsIppRequests\CsIppRequestLib\obj\Debug\CsIppRequestLib.pdb
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\BasicAuth_CsIppRequests\CsIppRequestLib\bin\Debug\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\BasicAuth_CsIppRequests\CsIppRequestLib\bin\Debug\CsIppRequestLib.pdb

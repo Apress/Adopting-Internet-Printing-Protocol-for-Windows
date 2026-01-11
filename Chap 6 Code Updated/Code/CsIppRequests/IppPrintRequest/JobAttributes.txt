@@ -1,0 +1,7 @@
+copies=1
+print-color-mode=monochrome
+output-bin=face-down
+print-quality=4
+sides=two-sided-long-edge
+orientation-requested=3
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj": {}
+    "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj": {}
   },
   "projects": {
-    "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj": {
+    "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
+        "projectUniqueName": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
         "projectName": "IppCheck",
-        "projectPath": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
+        "projectPath": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
         "packagesPath": "C:\\Users\\jpmsp\\.nuget\\packages\\",
-        "outputPath": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\obj\\",
+        "outputPath": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -74,24 +74,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -100,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

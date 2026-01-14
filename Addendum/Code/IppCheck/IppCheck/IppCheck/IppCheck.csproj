@@ -72,7 +72,7 @@
 
   <ItemGroup>
     <Reference Include="CsIppRequestLib">
-      <HintPath>..\..\..\..\..\Addendum IPP Check\Code\IppCheck\IppCheck\IppCheck\Libs\CsIppRequestLib.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Addendum IPP Check\Code\IppCheck\IppCheck\IppCheck\Libs\CsIppRequestLib.dll</HintPath>
     </Reference>
     <Reference Include="MicroMvvm">
       <HintPath>Libs\MicroMvvm.dll</HintPath>

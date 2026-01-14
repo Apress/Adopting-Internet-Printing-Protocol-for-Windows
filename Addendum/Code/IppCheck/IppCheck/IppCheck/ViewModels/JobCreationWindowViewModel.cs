@@ -115,7 +115,7 @@ namespace IppCheck
             try
             {
                 Mouse.OverrideCursor = Cursors.Wait;
-                GetIppAttributesRequest gpa = new GetIppAttributesRequest(us.IppVersion, m_sPrinterName, us.Ipps, m_iRequestNumber);
+                GetPrinterAttributesRequest gpa = new GetPrinterAttributesRequest(us.IppVersion, m_sPrinterName, us.Ipps, m_iRequestNumber, true);
                 CompletionStruct cs = await gpa.SendRequestAsync();
                 if (IppHelpers.IsRequestSuccessful(cs.status))
                 {

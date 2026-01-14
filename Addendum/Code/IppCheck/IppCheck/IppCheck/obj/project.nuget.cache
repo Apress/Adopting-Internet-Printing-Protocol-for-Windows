@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yGXvmfXBtg0=",
+  "dgSpecHash": "2mOxyVmvU+s=",
   "success": true,
-  "projectFilePath": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
+  "projectFilePath": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jpmsp\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\jpmsp\\.nuget\\packages\\dotnetprojects.wpftoolkit.datavisualization\\6.1.94\\dotnetprojects.wpftoolkit.datavisualization.6.1.94.nupkg.sha512",
@@ -83,11 +83,7 @@
     "C:\\Users\\jpmsp\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512",
     "C:\\Users\\jpmsp\\.nuget\\packages\\system.threading.threadpool\\4.3.0\\system.threading.threadpool.4.3.0.nupkg.sha512",
     "C:\\Users\\jpmsp\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\jpmsp\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\jpmsp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+    "C:\\Users\\jpmsp\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

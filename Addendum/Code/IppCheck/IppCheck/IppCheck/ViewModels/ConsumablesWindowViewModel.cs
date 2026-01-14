@@ -67,7 +67,7 @@ namespace IppCheck
             try
             {
                 Mouse.OverrideCursor = Cursors.Wait;
-                GetIppAttributesRequest gpa = new GetIppAttributesRequest(us.IppVersion, PrinterName, us.Ipps, m_iRequestNumber);
+                GetPrinterAttributesRequest gpa = new GetPrinterAttributesRequest(us.IppVersion, PrinterName, us.Ipps, m_iRequestNumber, true);
                 CompletionStruct cs = await gpa.SendRequestAsync();
                 if (IppHelpers.IsRequestSuccessful(cs.status))
                 {
@@ -110,7 +110,7 @@ namespace IppCheck
         /// ExtractMarkerInfo
         /// </summary>
         /// <param name="gpa"></param>
-        private void ExtractMarkerInfo(ref GetIppAttributesRequest gpa)
+        private void ExtractMarkerInfo(ref GetPrinterAttributesRequest gpa)
         {
 
             ClearMarkerCollections();

@@ -1,18 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\",
+  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\work\\ippcheck code\\ippcheck\\ippcheck\\ippcheck\\ippcheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\io\\printerattributequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\io\\printerattributequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\requestwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\requestwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\jobcreationwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\jobcreationwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\consumableswindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\consumableswindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\printerslistwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\printerslistwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\jobattributesfilewindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\jobattributesfilewindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\informationwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\informationwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\setupwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\setupwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\testparameterswindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\testparameterswindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\requesterrorwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\requesterrorwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\collections\\asyncobservablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\collections\\asyncobservablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\ippcheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\ippcheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\work\\ippcheck code\\ippcheck\\ippcheck\\ippcheck\\ippcheck.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\_library bug fixes\\addendum ipp check\\code\\ippcheck\\ippcheck\\ippcheck\\ippcheck.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\ippcheck.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|d:\\backup\\ipp book\\work\\ippcheck code\\ippcheck\\ippcheck\\ippcheck\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2F1D93-C948-4738-A3A0-05E5C14023F6}|IppCheck\\IppCheck.csproj|solutionrelative:ippcheck\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,41 +77,176 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IppCheck.csproj",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
-              "RelativeDocumentMoniker": "IppCheck\\IppCheck.csproj",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
-              "RelativeToolTip": "IppCheck\\IppCheck.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-21T19:30:32.662Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "JobAttributesFileWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\JobAttributesFileWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\JobAttributesFileWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\JobAttributesFileWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\JobAttributesFileWindowViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:40:50.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsumablesWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\ConsumablesWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\ConsumablesWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\ConsumablesWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\ConsumablesWindowViewModel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:04:45.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAADkCAAAAAAAAAAAuwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:11:14.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintersListWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\PrintersListWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\PrintersListWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\PrintersListWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\PrintersListWindowViewModel.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:41:15.196Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IppCheck",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
-              "RelativeDocumentMoniker": "IppCheck\\IppCheck.csproj",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
-              "RelativeToolTip": "IppCheck\\IppCheck.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-21T00:14:31.516Z",
+              "Title": "RequestWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\RequestWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\RequestWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\RequestWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\RequestWindowViewModel.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwF4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:33:29.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrinterAttributeQuery.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IO\\PrinterAttributeQuery.cs",
+              "RelativeDocumentMoniker": "IppCheck\\IO\\PrinterAttributeQuery.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IO\\PrinterAttributeQuery.cs",
+              "RelativeToolTip": "IppCheck\\IO\\PrinterAttributeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:32:31.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\Work\\IPPCheck Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "IppCheck\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Title": "JobCreationWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\JobCreationWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\JobCreationWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\JobCreationWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\JobCreationWindowViewModel.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwHUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:11:14.447Z"
+              "WhenOpened": "2026-01-09T20:33:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InformationWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\InformationWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\InformationWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\InformationWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\InformationWindowViewModel.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:40:35.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SetupWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\SetupWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\SetupWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\SetupWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\SetupWindowViewModel.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:41:29.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestParametersWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\TestParametersWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\TestParametersWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\TestParametersWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\TestParametersWindowViewModel.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAADwv4oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:41:41.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestErrorWindowViewModel.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\RequestErrorWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IppCheck\\ViewModels\\RequestErrorWindowViewModel.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\ViewModels\\RequestErrorWindowViewModel.cs",
+              "RelativeToolTip": "IppCheck\\ViewModels\\RequestErrorWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:41:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AsyncObservableCollection.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\Collections\\AsyncObservableCollection.cs",
+              "RelativeDocumentMoniker": "IppCheck\\Collections\\AsyncObservableCollection.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\Collections\\AsyncObservableCollection.cs",
+              "RelativeToolTip": "IppCheck\\Collections\\AsyncObservableCollection.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwD8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:34:10.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IppCheck.csproj",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
+              "RelativeDocumentMoniker": "IppCheck\\IppCheck.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
+              "RelativeToolTip": "IppCheck\\IppCheck.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T19:30:32.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IppCheck",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
+              "RelativeDocumentMoniker": "IppCheck\\IppCheck.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Addendum IPP Check\\Code\\IppCheck\\IppCheck\\IppCheck\\IppCheck.csproj",
+              "RelativeToolTip": "IppCheck\\IppCheck.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T00:14:31.516Z"
             }
           ]
         }

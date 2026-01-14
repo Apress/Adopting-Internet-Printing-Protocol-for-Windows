@@ -128,7 +128,7 @@ namespace IppCheck
             {
                 try
                 {
-                    GetIppAttributesRequest gpa = new GetIppAttributesRequest(ver, _ipp_printer, ipps, request);
+                    GetPrinterAttributesRequest gpa = new GetPrinterAttributesRequest(ver, _ipp_printer, ipps, request, true);
                     CompletionStruct cs = await gpa.SendRequestAsync();
                     if (cs.status > (int)Status.IPP_STATUS.IPP_STATUS_OK_EVENTS_COMPLETE)
                     {

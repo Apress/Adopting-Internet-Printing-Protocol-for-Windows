@@ -11,7 +11,7 @@
           "DotNetProjects.WpfToolkit.DataVisualization": "6.1.94",
           "itext": "9.1.0",
           "itext.bouncy-castle-adapter": "9.1.0",
-          "CsIppRequestLib": "1.0.0.5",
+          "CsIppRequestLib": "1.0.1.5",
           "MicroMvvm": "1.0.0.0"
         },
         "runtime": {
@@ -754,11 +754,11 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "CsIppRequestLib/1.0.0.5": {
+      "CsIppRequestLib/1.0.1.5": {
         "runtime": {
           "CsIppRequestLib.dll": {
-            "assemblyVersion": "1.0.0.5",
-            "fileVersion": "1.0.0.5"
+            "assemblyVersion": "1.0.1.5",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -1338,7 +1338,7 @@
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
-    "CsIppRequestLib/1.0.0.5": {
+    "CsIppRequestLib/1.0.1.5": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

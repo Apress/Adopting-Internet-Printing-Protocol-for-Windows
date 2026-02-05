@@ -10,3 +10,9 @@ D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\C
 D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\CsIppRequests\CsIppRequestLib\obj\Release\CsIppRequestLib.csproj.CoreCompileInputs.cache
 D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\CsIppRequests\CsIppRequestLib\obj\Release\CsIppRequestLib.dll
 D:\BACKUP\IPP Book\_Library Bug Fixes\Chap6 Additional RFC IPP Operations\Code\CsIppRequests\CsIppRequestLib\obj\Release\CsIppRequestLib.pdb
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 6 Code Updated\Code\CsIppRequests\CsIppRequestLib\bin\Release\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 6 Code Updated\Code\CsIppRequests\CsIppRequestLib\bin\Release\CsIppRequestLib.pdb
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 6 Code Updated\Code\CsIppRequests\CsIppRequestLib\obj\Release\CsIppRequestLib.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 6 Code Updated\Code\CsIppRequests\CsIppRequestLib\obj\Release\CsIppRequestLib.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 6 Code Updated\Code\CsIppRequests\CsIppRequestLib\obj\Release\CsIppRequestLib.dll
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 6 Code Updated\Code\CsIppRequests\CsIppRequestLib\obj\Release\CsIppRequestLib.pdb

@@ -62,15 +62,15 @@ namespace CsIppRequestLib
         {
             lock (_lock)
             {
-                byte[] bLimitAttribute = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Integer, "limit", 60);
-                byte[] bWhichJobsAttribute = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Keyword, "which-jobs", completed == false ? "not-completed" : "completed");
+                byte[] bLimitAttribute = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Integer, "limit", 60);
+                byte[] bWhichJobsAttribute = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Keyword, "which-jobs", completed == false ? "not-completed" : "completed");
                 //byte[] bMyJobsAttribute = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Boolean, "my-jobs", myjobs);
 
                 // Initialize a list to accumulate the requested attributes
                 List<byte> requestedAttributesBuffer = new List<byte>();
                 foreach (string attr in requestedAttributeNames)
                 {
-                    var bufbuf = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Keyword, "requested-attributes", attr);
+                    var bufbuf = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Keyword, "requested-attributes", attr);
                     requestedAttributesBuffer.AddRange(bufbuf);
                 }
 

@@ -60,9 +60,10 @@
     <Compile Include="Ipp\EnumMappings.cs" />
     <Compile Include="Ipp\Helpers.cs" />
     <Compile Include="Ipp\HttpClientFactory.cs" />
+    <Compile Include="Ipp\RequestHelpers.cs" />
     <Compile Include="Ipp\SafeStreamRead.cs" />
     <Compile Include="Ipp\Status.cs" />
-    <Compile Include="Ipp\RequestHelpers.cs" />
+    <Compile Include="Ipp\_RequestHelpers.cs" />
     <Compile Include="Ipp\ResponseHelpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

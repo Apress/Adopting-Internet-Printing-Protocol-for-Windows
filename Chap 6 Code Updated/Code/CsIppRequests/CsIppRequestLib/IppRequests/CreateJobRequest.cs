@@ -46,7 +46,7 @@ namespace CsIppRequestLib
             lock (_lock)
             {
                 //Create job attributes byte buffer
-                byte[] concatenatedArray = RequestHelpers.CreateJobAttributesByteArray(_jobAttributes);
+                byte[] concatenatedArray = _RequestHelpers.CreateJobAttributesByteArray(_jobAttributes);
 
                 m_bRequestPayload = m_bIppVersionAndOperationId
                    .Concat(m_bRequestId)

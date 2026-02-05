@@ -78,7 +78,7 @@ namespace CsIppRequestLib
             m_bAttributesCharset = RequestHelpers.CreatePrinterAttribute(0x47, "attributes-charset", "utf-8");
             m_bAttributesNaturalLanguage = RequestHelpers.CreatePrinterAttribute(0x48, "attributes-natural-language", "en");
             m_bPrinterUriAttribute = RequestHelpers.CreatePrinterAttribute(0x45, "printer-uri", printerUri);
-            m_bRequestingUserName = RequestHelpers.CreatePrinterAttribute(0x42, "requesting-user_name", Environment.UserName);
+            m_bRequestingUserName = RequestHelpers.CreatePrinterAttribute(0x42, "requesting-user-name", Environment.UserName);
         }
         private byte[] ToBigEndianBytes(int value)
         {

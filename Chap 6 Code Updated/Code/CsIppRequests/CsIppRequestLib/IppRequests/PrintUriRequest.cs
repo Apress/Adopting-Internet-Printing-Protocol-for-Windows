@@ -52,10 +52,10 @@ namespace CsIppRequestLib
             lock (_lock)
             {
                 string ext = GetMimeType(file_uri);
-                var docFormatAttribute = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.MimeMediaType, "document-format", ext);
-                var fileUriAttribute = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Uri, "document-uri", file_uri);
+                var docFormatAttribute = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.MimeMediaType, "document-format", ext);
+                var fileUriAttribute = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Uri, "document-uri", file_uri);
                 //Create job attributes byte buffer
-                byte[] concatenatedArray = RequestHelpers.CreateJobAttributesByteArray(_jobAttributes);
+                byte[] concatenatedArray = _RequestHelpers.CreateJobAttributesByteArray(_jobAttributes);
 
                 m_bRequestPayload = m_bIppVersionAndOperationId
                    .Concat(m_bRequestId)

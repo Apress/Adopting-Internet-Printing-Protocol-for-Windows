@@ -64,9 +64,9 @@ namespace CsIppRequestLib
             {
                 byte[] fileBytes = File.ReadAllBytes(m_sFileName);
                 string ext = GetMimeType(m_sFileName);
-                var docFormatAttribute = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.MimeMediaType, "document-format", ext);
-                var lastDocAttribute = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Boolean, "last-document", bLastJob);
-                byte[] m_bJobId = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Integer, "job-id", m_iJobId);
+                var docFormatAttribute = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.MimeMediaType, "document-format", ext);
+                var lastDocAttribute = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Boolean, "last-document", bLastJob);
+                byte[] m_bJobId = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Integer, "job-id", m_iJobId);
                 //
                 m_bRequestPayload = m_bIppVersionAndOperationId
                    .Concat(m_bRequestId)

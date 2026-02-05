@@ -46,7 +46,7 @@ namespace CsIppRequestLib
         {
             lock (_lock)
             {
-                byte[] m_bJobId = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Integer, "job-id", m_iJobId);
+                byte[] m_bJobId = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Integer, "job-id", m_iJobId);
                 //
                 m_bRequestPayload = m_bIppVersionAndOperationId
                    .Concat(m_bRequestId)

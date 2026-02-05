@@ -52,13 +52,13 @@ namespace CsIppRequestLib
         {
             lock (_lock)
             {
-                byte[] m_bJobId = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Integer, "job-id", m_iJobId);
+                byte[] m_bJobId = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Integer, "job-id", m_iJobId);
 
                 // Initialize a list to accumulate the requested attributes
                 List<byte> requestedAttributesBuffer = new List<byte>();
                 foreach (string attr in requestedAttributeNames)
                 {
-                    var bufbuf = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Keyword, "requested-attributes", attr);
+                    var bufbuf = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.Keyword, "requested-attributes", attr);
                     requestedAttributesBuffer.AddRange(bufbuf);
                 }
 

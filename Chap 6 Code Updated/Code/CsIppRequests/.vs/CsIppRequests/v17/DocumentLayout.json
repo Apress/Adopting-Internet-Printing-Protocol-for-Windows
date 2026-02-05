@@ -1,118 +1,119 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\",
+  "WorkspaceRootPath": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\responsehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\ipprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\ipprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\identifyprinterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\identifyprinterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\createjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\createjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\printjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\printjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipp\\responsehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\responsehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|d:\\backup\\ipp book\\_library bug fixes\\chap 6 code updated\\code\\csipprequests\\csipprequestlib\\ipp\\requesthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\requesthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|d:\\backup\\ipp book\\_library bug fixes\\chap 6 code updated\\code\\csipprequests\\csipprequestlib\\ipp\\_requesthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\_requesthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|d:\\backup\\ipp book\\_library bug fixes\\chap 6 code updated\\code\\csipprequests\\csipprequestlib\\ipp\\safestreamread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\safestreamread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CsIppRequestLib||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\ipprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\ipprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IppPrintRequest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58053E25-5E67-411D-9126-B2BC0A84CC73}|IppPrintRequest\\IppPrintRequest.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\ippprintrequest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58053E25-5E67-411D-9126-B2BC0A84CC73}|IppPrintRequest\\IppPrintRequest.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\ippprintrequest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58053E25-5E67-411D-9126-B2BC0A84CC73}|IppPrintRequest\\IppPrintRequest.csproj|solutionrelative:ippprintrequest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\safestreamread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\safestreamread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\requesthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\requesthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\createjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\createjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipp\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\getjobsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\getjobsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\getjobsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\identifyprinterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\identifyprinterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\enummappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipp\\enummappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\enummappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\attributehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipp\\attributehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\attributehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\byteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipp\\byteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\byteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\collectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipp\\collectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\collectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\collections\\ippattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\collections\\ippattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\collections\\ippattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\collections\\ippattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\collections\\ippattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\collections\\ippattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipp\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\getjobattributesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\getjobattributesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\getjobattributesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\getprinterattributesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\getprinterattributesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\getprinterattributesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\validatejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\validatejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\validatejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\senddocrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\senddocrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\senddocrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\printjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\printjobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\canceljobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\canceljobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\canceljobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\printurirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipprequests\\printurirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipprequests\\printurirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\csipprequestlib\\ipp\\httpclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\csipprequestlib\\ipp\\httpclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|solutionrelative:csipprequestlib\\ipp\\httpclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58053E25-5E67-411D-9126-B2BC0A84CC73}|IppPrintRequest\\IppPrintRequest.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\ippprintrequest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{58053E25-5E67-411D-9126-B2BC0A84CC73}|IppPrintRequest\\IppPrintRequest.csproj|D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\ippprintrequest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{58053E25-5E67-411D-9126-B2BC0A84CC73}|IppPrintRequest\\IppPrintRequest.csproj|solutionrelative:ippprintrequest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Book\\IPP Book\\Chap3\\code\\GetPrinterAttributesRequest\\ResponseHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB779FF9-244F-4B71-AF00-61A1692B8DC1}|CsIppRequestLib\\CsIppRequestLib.csproj|d:\\backup\\ipp book\\_library bug fixes\\chap6 additional rfc ipp operations\\code\\csipprequests\\csipprequestlib\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +123,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -133,12 +134,159 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestHelpers.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\RequestHelpers.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\RequestHelpers.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\RequestHelpers.cs",
+              "RelativeToolTip": "CsIppRequestLib\\Ipp\\RequestHelpers.cs",
+              "ViewState": "AgIAAM0BAAAAAAAAAAAAANMBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T23:57:42.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 7,
+              "Title": "SafeStreamRead.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\SafeStreamRead.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\SafeStreamRead.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\SafeStreamRead.cs",
+              "RelativeToolTip": "CsIppRequestLib\\Ipp\\SafeStreamRead.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:24:25.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseHelpers.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\ResponseHelpers.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\ResponseHelpers.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\ResponseHelpers.cs",
+              "RelativeToolTip": "CsIppRequestLib\\Ipp\\ResponseHelpers.cs",
+              "ViewState": "AgIAAFMDAAAAAAAAAAAAAGwDAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:26:10.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IppRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\IppRequest.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\IppRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\IppRequest.cs",
+              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\IppRequest.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:26:11.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnumMappings.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\EnumMappings.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\EnumMappings.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\EnumMappings.cs",
+              "RelativeToolTip": "CsIppRequestLib\\Ipp\\EnumMappings.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:40:45.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetJobAttributesRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetJobAttributesRequest.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\GetJobAttributesRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetJobAttributesRequest.cs",
+              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\GetJobAttributesRequest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:05:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateJobRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\CreateJobRequest.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\CreateJobRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\CreateJobRequest.cs",
+              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\CreateJobRequest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:17:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintJobRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\PrintJobRequest.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\PrintJobRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\PrintJobRequest.cs",
+              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\PrintJobRequest.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:29:15.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentifyPrinterRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\IdentifyPrinterRequest.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\IdentifyPrinterRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\IdentifyPrinterRequest.cs",
+              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\IdentifyPrinterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:17:44.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\Helpers.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\Helpers.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\Helpers.cs",
+              "RelativeToolTip": "CsIppRequestLib\\Ipp\\Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:32:52.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CsIppRequestLib",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\CsIppRequestLib.csproj",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\CsIppRequestLib.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\CsIppRequestLib.csproj",
+              "RelativeToolTip": "CsIppRequestLib\\CsIppRequestLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T19:40:08.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\IppPrintRequest\\Program.cs",
+              "RelativeDocumentMoniker": "IppPrintRequest\\Program.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\IppPrintRequest\\Program.cs",
+              "RelativeToolTip": "IppPrintRequest\\Program.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:26:11.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "ResponseHelpers.cs",
               "DocumentMoniker": "H:\\Book\\IPP Book\\Chap3\\code\\GetPrinterAttributesRequest\\ResponseHelpers.cs",
               "ToolTip": "H:\\Book\\IPP Book\\Chap3\\code\\GetPrinterAttributesRequest\\ResponseHelpers.cs",
@@ -148,167 +296,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\IppPrintRequest\\Program.cs",
-              "RelativeDocumentMoniker": "IppPrintRequest\\Program.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\IppPrintRequest\\Program.cs",
-              "RelativeToolTip": "IppPrintRequest\\Program.cs",
-              "ViewState": "AgIAABMBAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "_RequestHelpers.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\_RequestHelpers.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\_RequestHelpers.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\_RequestHelpers.cs",
+              "RelativeToolTip": "CsIppRequestLib\\Ipp\\_RequestHelpers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:26:11.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CsIppRequestLib",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\CsIppRequestLib.csproj",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\CsIppRequestLib.csproj",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\CsIppRequestLib.csproj",
-              "RelativeToolTip": "CsIppRequestLib\\CsIppRequestLib.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-08T19:40:08.677Z",
+              "WhenOpened": "2025-01-15T13:26:10.388Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SafeStreamRead.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\SafeStreamRead.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\SafeStreamRead.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\SafeStreamRead.cs",
-              "RelativeToolTip": "CsIppRequestLib\\Ipp\\SafeStreamRead.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T17:24:25.366Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ResponseHelpers.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\ResponseHelpers.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\ResponseHelpers.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\ResponseHelpers.cs",
-              "RelativeToolTip": "CsIppRequestLib\\Ipp\\ResponseHelpers.cs",
-              "ViewState": "AgIAAEkDAAAAAAAAAAAUwGwDAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:26:10.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Helpers.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\Helpers.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\Helpers.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\Helpers.cs",
-              "RelativeToolTip": "CsIppRequestLib\\Ipp\\Helpers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T17:32:52.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IppRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\IppRequest.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\IppRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\IppRequest.cs",
-              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\IppRequest.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAiwOUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:26:11.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EnumMappings.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\EnumMappings.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\EnumMappings.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\EnumMappings.cs",
-              "RelativeToolTip": "CsIppRequestLib\\Ipp\\EnumMappings.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:40:45.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GetJobAttributesRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetJobAttributesRequest.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\GetJobAttributesRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetJobAttributesRequest.cs",
-              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\GetJobAttributesRequest.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwEUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:05:04.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IppPrintRequest",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\IppPrintRequest\\IppPrintRequest.csproj",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\IppPrintRequest\\IppPrintRequest.csproj",
               "RelativeDocumentMoniker": "IppPrintRequest\\IppPrintRequest.csproj",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\IppPrintRequest\\IppPrintRequest.csproj",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\IppPrintRequest\\IppPrintRequest.csproj",
               "RelativeToolTip": "IppPrintRequest\\IppPrintRequest.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-08T01:13:34.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RequestHelpers.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\RequestHelpers.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\RequestHelpers.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\RequestHelpers.cs",
-              "RelativeToolTip": "CsIppRequestLib\\Ipp\\RequestHelpers.cs",
-              "ViewState": "AgIAAOcAAAAAAAAAAAAAAOcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:26:10.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateJobRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\CreateJobRequest.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\CreateJobRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\CreateJobRequest.cs",
-              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\CreateJobRequest.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA1wBsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:17:26.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IdentifyPrinterRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\IdentifyPrinterRequest.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\IdentifyPrinterRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\IdentifyPrinterRequest.cs",
-              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\IdentifyPrinterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:17:44.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "GetJobsRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetJobsRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetJobsRequest.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\GetJobsRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetJobsRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetJobsRequest.cs",
               "RelativeToolTip": "CsIppRequestLib\\IppRequests\\GetJobsRequest.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAswBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:32:16.11Z"
+              "WhenOpened": "2025-05-19T18:32:16.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CollectionAttribute.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\CollectionAttribute.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\CollectionAttribute.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\CollectionAttribute.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\CollectionAttribute.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\CollectionAttribute.cs",
               "RelativeToolTip": "CsIppRequestLib\\Ipp\\CollectionAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AttributeHelper.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\AttributeHelper.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\AttributeHelper.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\AttributeHelper.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\AttributeHelper.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\AttributeHelper.cs",
               "RelativeToolTip": "CsIppRequestLib\\Ipp\\AttributeHelper.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,23 +361,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CancelJobRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\CancelJobRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\CancelJobRequest.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\CancelJobRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\CancelJobRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\CancelJobRequest.cs",
               "RelativeToolTip": "CsIppRequestLib\\IppRequests\\CancelJobRequest.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowCgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:17:05.145Z"
+              "WhenOpened": "2025-05-23T10:17:05.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Status.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\Status.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\Status.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\Status.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\Status.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\Status.cs",
               "RelativeToolTip": "CsIppRequestLib\\Ipp\\Status.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwEwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,59 +386,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "SendDocRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\SendDocRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\SendDocRequest.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\SendDocRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\SendDocRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\SendDocRequest.cs",
               "RelativeToolTip": "CsIppRequestLib\\IppRequests\\SendDocRequest.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAowCQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:26:11.297Z"
+              "WhenOpened": "2025-01-15T13:26:11.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PrintUriRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\PrintUriRequest.cs",
+              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\PrintUriRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\PrintUriRequest.cs",
+              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\PrintUriRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:18:08.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "PrintJobRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\PrintJobRequest.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\PrintJobRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\PrintJobRequest.cs",
-              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\PrintJobRequest.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:29:15.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "PrintUriRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\PrintUriRequest.cs",
-              "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\PrintUriRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\PrintUriRequest.cs",
-              "RelativeToolTip": "CsIppRequestLib\\IppRequests\\PrintUriRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:18:08.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "ValidateJobRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\ValidateJobRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\ValidateJobRequest.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\ValidateJobRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\ValidateJobRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\ValidateJobRequest.cs",
               "RelativeToolTip": "CsIppRequestLib\\IppRequests\\ValidateJobRequest.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAqwBkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:24:23.766Z"
+              "WhenOpened": "2025-03-23T18:24:23.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IppAttributes.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Collections\\IppAttributes.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Collections\\IppAttributes.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\Collections\\IppAttributes.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Collections\\IppAttributes.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Collections\\IppAttributes.cs",
               "RelativeToolTip": "CsIppRequestLib\\Collections\\IppAttributes.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAswCsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,11 +437,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "GetPrinterAttributesRequest.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetPrinterAttributesRequest.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetPrinterAttributesRequest.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\IppRequests\\GetPrinterAttributesRequest.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetPrinterAttributesRequest.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\IppRequests\\GetPrinterAttributesRequest.cs",
               "RelativeToolTip": "CsIppRequestLib\\IppRequests\\GetPrinterAttributesRequest.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvx8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +449,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ByteOrder.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\ByteOrder.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\ByteOrder.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\ByteOrder.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\ByteOrder.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\ByteOrder.cs",
               "RelativeToolTip": "CsIppRequestLib\\Ipp\\ByteOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,11 +461,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IppAttribute.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Collections\\IppAttribute.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Collections\\IppAttribute.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\Collections\\IppAttribute.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Collections\\IppAttribute.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Collections\\IppAttribute.cs",
               "RelativeToolTip": "CsIppRequestLib\\Collections\\IppAttribute.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAiwBUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,11 +473,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "HttpClientFactory.cs",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\HttpClientFactory.cs",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\HttpClientFactory.cs",
               "RelativeDocumentMoniker": "CsIppRequestLib\\Ipp\\HttpClientFactory.cs",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\HttpClientFactory.cs",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\CsIppRequestLib\\Ipp\\HttpClientFactory.cs",
               "RelativeToolTip": "CsIppRequestLib\\Ipp\\HttpClientFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,11 +485,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\IppPrintRequest\\App.config",
+              "DocumentMoniker": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\IppPrintRequest\\App.config",
               "RelativeDocumentMoniker": "IppPrintRequest\\App.config",
-              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap6 Additional RFC IPP Operations\\Code\\CsIppRequests\\IppPrintRequest\\App.config",
+              "ToolTip": "D:\\BACKUP\\IPP Book\\_Library Bug Fixes\\Chap 6 Code Updated\\Code\\CsIppRequests\\IppPrintRequest\\App.config",
               "RelativeToolTip": "IppPrintRequest\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

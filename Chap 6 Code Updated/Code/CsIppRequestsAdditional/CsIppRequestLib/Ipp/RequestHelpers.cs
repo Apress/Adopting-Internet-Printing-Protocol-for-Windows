@@ -17,16 +17,16 @@ namespace CsIppRequestLib
 {
     public static class RequestHelpers
     {
+        public const int npos = -1;
 
         /// <summary>
         /// CreatePrinterAttribute
-        /// Creates printer attributes
         /// </summary>
         /// <param name="tag"></param>
         /// <param name="name"></param>
         /// <param name="value"></param>
-        /// <param name="bFirstOf"></param>
         /// <returns></returns>
+        /// 
         public static byte[] CreatePrinterAttribute(byte tag, string name, object value)
         {
             var nameBytes = Encoding.UTF8.GetBytes(name);
@@ -51,13 +51,12 @@ namespace CsIppRequestLib
 
             // Convert nameBytes Integer16 length to 2 bytes, placing the MSB on the left (first) while the LSB on the right (second) for big-endan formatting, 
             // then add these 2 bytes to the byte array. Concat the nameBytes UTF-8 formatted bytes to the byte array as well. Repeat again for valueBytes argument.
-
             return new byte[] { tag } // Attribute tag
-           .Concat(new byte[] { (byte)(nameBytes.Length >> 8 & 0xFF), (byte)(nameBytes.Length & 0xFF) }) // Name length
-           .Concat(nameBytes) // Name
-           .Concat(new byte[] { (byte)(valueBytes.Length >> 8 & 0xFF), (byte)(valueBytes.Length & 0xFF) }) // Value length
-           .Concat(valueBytes) // Value
-           .ToArray();
+                .Concat(new byte[] { (byte)(nameBytes.Length >> 8 & 0xFF), (byte)(nameBytes.Length & 0xFF) }) // Name length
+                .Concat(nameBytes) // Name
+                .Concat(new byte[] { (byte)(valueBytes.Length >> 8 & 0xFF), (byte)(valueBytes.Length & 0xFF) }) // Value length
+                .Concat(valueBytes) // Value
+                .ToArray();
         }
 
 
@@ -69,12 +68,11 @@ namespace CsIppRequestLib
         /// <exception cref="Exception"></exception>
         public static byte[] CreateJobAttributesByteArray(Dictionary<string, List<object>> jas)
         {
-            if (jas.Count == 0)
+            if(jas.Count == 0)
                 return null;
 
             byte[] valueBytes = new byte[] { };
             List<byte[]> lstbytes = new List<byte[]>();
-
 
             foreach (var kvp in jas)
             {
@@ -83,51 +81,65 @@ namespace CsIppRequestLib
                 byte tag = AttributeHelper.GetJobAttributeByte(kvp.Key.ToString());
                 foreach (var value in kvp.Value)
                 {
-                    if (value.GetType() == typeof(List<object>))
+                    if (tag == (byte)AttributeHelper.ValueTag.BegCollection)
                     {
-                        List<object> objects = (List<object>)value;
-                        object[] values = objects.ToArray();
-                        if (values.Length == 2)
+                        //get the byte array representation of this string collection
+                        try
                         {
-                            //Range
-                            var lower = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToInt32(values[0])));
-                            var upper = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToInt32(values[1])));
-                            valueBytes = lower.Concat(upper).ToArray();
+                            lstbytes.Add(CreateCollectionByteArray(kvp.Key.ToString(), value.ToString()));
                         }
-                        else if (values.Length == 3)
+                        catch (Exception ex)
                         {
-                            //Resolution
-                            var crossFeedRes = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToInt32(values[0])));
-                            var feedRes = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToInt32(values[1])));
-                            var unitVal = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToByte(values[2])));
-                            valueBytes = crossFeedRes.Concat(feedRes).Concat(unitVal).ToArray();
-                        }
-                        else
-                        {
-                            throw new Exception($"Invalid or unrecognized object collection for Name {kvp.Key.ToString()}");
+                            throw new Exception($"Error parsing collection attribute {kvp.Key.ToString()}, reason: {ex.Message}");
                         }
                     }
                     else
                     {
-                        // singluar value object
-                        if (value is string stringValue)
+                        if (value.GetType() == typeof(List<object>))
                         {
-                            valueBytes = Encoding.UTF8.GetBytes(stringValue);
+                            List<object> objects = (List<object>)value;
+                            object[] values = objects.ToArray();
+                            if (values.Length == 2)
+                            {
+                                //Range
+                                var lower = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToInt32(values[0])));
+                                var upper = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToInt32(values[1])));
+                                valueBytes = lower.Concat(upper).ToArray();
+                            }
+                            else if (values.Length == 3)
+                            {
+                                //Resolution
+                                var crossFeedRes = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToInt32(values[0])));
+                                var feedRes = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToInt32(values[1])));
+                                var unitVal = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(Convert.ToByte(values[2])));
+                                valueBytes = crossFeedRes.Concat(feedRes).Concat(unitVal).ToArray();
+                            }
+                            else
+                            {
+                                throw new Exception($"Invalid or unrecognized object collection for Name {kvp.Key.ToString()}");
+                            }
                         }
-                        else if (value is int intValue)
+                        else
                         {
-                            valueBytes = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(intValue));
+                            // singluar value object
+                            if (value is string stringValue)
+                            {
+                                valueBytes = Encoding.UTF8.GetBytes(stringValue);
+                            }
+                            else if (value is int intValue)
+                            {
+                                valueBytes = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(intValue));
+                            }
                         }
+
+                        var attrBytes = new byte[] { tag } // Attribute tag
+                       .Concat(new byte[] { (byte)(nameBytes.Length >> 8 & 0xFF), (byte)(nameBytes.Length & 0xFF) }) // Name length
+                       .Concat(nameBytes) // Name
+                       .Concat(new byte[] { (byte)(valueBytes.Length >> 8 & 0xFF), (byte)(valueBytes.Length & 0xFF) }) // Value length
+                       .Concat(valueBytes) // Value
+                       .ToArray();
+                        lstbytes.Add(attrBytes);
                     }
-
-                    var attrBytes = new byte[] { tag } // Attribute tag
-                   .Concat(new byte[] { (byte)(nameBytes.Length >> 8 & 0xFF), (byte)(nameBytes.Length & 0xFF) }) // Name length
-                   .Concat(nameBytes) // Name
-                   .Concat(new byte[] { (byte)(valueBytes.Length >> 8 & 0xFF), (byte)(valueBytes.Length & 0xFF) }) // Value length
-                   .Concat(valueBytes) // Value
-                   .ToArray();
-
-                    lstbytes.Add(attrBytes);
                 }
             }
 
@@ -137,95 +149,366 @@ namespace CsIppRequestLib
 
 
         /// <summary>
-        /// CreateCollectionJobAttribute
+        /// ToBigEndianBytes
+        /// 
+        /// Take a unsigned short value and return a byte array in Big-Endian format
         /// </summary>
-        /// <param name="tag"></param>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        private static byte[] ToBigEndianBytes(ushort value)
+        {
+            byte highByte = (byte)(value >> 8); // Get the most significant byte of value
+            byte lowByte = (byte)(value & 0xFF); // Mask the least significant byte of value
+            return new byte[] { highByte, lowByte };
+        }
+
+        /// <summary>
+        /// CreateCollectionByteArray
+        /// 
+        /// Take a collection name and a structured collection string and return a byte array 
+        /// representation of them.
+        /// </summary>
         /// <param name="collectionName"></param>
         /// <param name="collectionString"></param>
         /// <returns></returns>
-        /// <exception cref="ArgumentException"></exception>
-        public static byte[] CreateCollectionJobAttribute(byte tag, string collectionName, string collectionString)
+        public static byte[] CreateCollectionByteArray(string collectionName, string collectionString)
         {
-            var collectionNameBytes = Encoding.UTF8.GetBytes(collectionName);
-            var result = new List<byte>();
+            //create beginning and end of collection byte arrays
+            byte[] EndCollectionByteArray = new byte[] { (byte)AttributeHelper.ValueTag.EndCollection, 0x00, 0x00, 0x00, 0x00 };
+            byte[] BeginCollectionByteArray = new byte[] { (byte)AttributeHelper.ValueTag.BegCollection, 0x00, 0x00, 0x00, 0x00 };
 
-            // Begin collection
-            result.Add(0x34); // begin-collection tag
-            result.AddRange(new byte[] { (byte)(collectionNameBytes.Length >> 8 & 0xFF), (byte)(collectionNameBytes.Length & 0xFF) }); // Collection name length
-            result.AddRange(collectionNameBytes); // Collection name
-            result.AddRange(new byte[] { 0x00, 0x00 }); // Value length (begin-collection has no value)
+            var CollByteArray = new List<byte[]>();
+            var coll = ParseCollectionString(collectionString); // return object representation of collection string
 
-            // Parse the collection string
-            var memberAttributes = ParseCollectionString(collectionString);
+            // ---- Outer collection header ----
+            CollByteArray.Add(new[] { (byte)AttributeHelper.ValueTag.BegCollection });
+            var collNameBytes = Encoding.UTF8.GetBytes(collectionName);
+            CollByteArray.Add(ToBigEndianBytes((ushort)collNameBytes.Length));              // attribute name-length
+            CollByteArray.Add(collNameBytes);                                               // attribute name
+            CollByteArray.Add(ToBigEndianBytes(0));                                         // value-length = 0
 
-            foreach (var (name, value) in memberAttributes)
+            foreach (var memberAttr in coll) 
             {
-                var nameBytes = Encoding.UTF8.GetBytes(name);
-                byte[] valueBytes;
-                byte valueTag;
+                // --- memberAttrName record ---
+                var memberNameBytes = Encoding.UTF8.GetBytes(memberAttr.Name);
+                CollByteArray.Add(new[] { (byte)AttributeHelper.ValueTag.MemberAttrName });
+                CollByteArray.Add(ToBigEndianBytes(0));                                     // name-length MUST be 0 in collections
+                CollByteArray.Add(ToBigEndianBytes((ushort)memberNameBytes.Length));        // value-length = len(name)
+                CollByteArray.Add(memberNameBytes);                                         // value = name
 
-                if (value is string stringValue)
+                if (memberAttr.IsCollection)
                 {
-                    valueBytes = Encoding.UTF8.GetBytes(stringValue);
-                    valueTag = 0x41; // textWithoutLanguage
-                }
-                else if (value is int intValue)
-                {
-                    valueBytes = BitConverter.GetBytes(IPAddress.HostToNetworkOrder(intValue));
-                    valueTag = 0x21; // integer
+                    // --- nested collection header ---
+                    CollByteArray.Add(BeginCollectionByteArray);
+
+                    // Emit submembers (memberAttrName + member-value)
+                    foreach (var sub in memberAttr)
+                    {
+                        var subNameBytes = Encoding.UTF8.GetBytes(sub.Name);
+
+                        // sub memberAttrName
+                        CollByteArray.Add(new[] { (byte)AttributeHelper.ValueTag.MemberAttrName });
+                        CollByteArray.Add(ToBigEndianBytes(0));
+                        CollByteArray.Add(ToBigEndianBytes((ushort)subNameBytes.Length));
+                        CollByteArray.Add(subNameBytes);
+
+                        // sub member value
+                        byte[] valBytes = GetByteValue(sub.ValueTag, sub.Value);
+                        CollByteArray.Add(new[] { sub.ValueTag });
+                        CollByteArray.Add(ToBigEndianBytes(0));
+                        CollByteArray.Add(ToBigEndianBytes((ushort)valBytes.Length));
+                        CollByteArray.Add(valBytes);
+                    }
+
+                    // --- close nested collection ---
+                    CollByteArray.Add(EndCollectionByteArray);
                 }
                 else
                 {
-                    throw new ArgumentException("Unsupported attribute value type");
+                    // --- scalar member value ---
+                    byte[] valBytes = GetByteValue(memberAttr.ValueTag, memberAttr.Value);
+                    CollByteArray.Add(new[] { memberAttr.ValueTag });
+                    CollByteArray.Add(ToBigEndianBytes(0)); // name-length = 0
+                    CollByteArray.Add(ToBigEndianBytes((ushort)valBytes.Length));
+                    CollByteArray.Add(valBytes);
                 }
-
-                // Member attribute
-                result.Add(valueTag); // Member attribute tag
-                result.AddRange(new byte[] { (byte)(nameBytes.Length >> 8 & 0xFF), (byte)(nameBytes.Length & 0xFF) }); // Member attribute name length
-                result.AddRange(nameBytes); // Member attribute name
-                result.AddRange(new byte[] { (byte)(valueBytes.Length >> 8 & 0xFF), (byte)(valueBytes.Length & 0xFF) }); // Member attribute value length
-                result.AddRange(valueBytes); // Member attribute value
             }
 
-            // End collection
-            result.AddRange(new byte[] { 0x37, 0x00, 0x00, 0x00, 0x00 }); // end-collection
-
-            return result.ToArray();
+            // ---- Close outer collection
+            CollByteArray.Add(EndCollectionByteArray);
+            return CollByteArray.SelectMany(b => b).ToArray();
         }
 
+        /// <summary>
+        /// GetByteValue
+        /// 
+        /// Given a value tag and the object value, return the byte array representation.
+        /// </summary>
+        /// <param name="valueTag"></param>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        /// <exception cref="InvalidOperationException"></exception>
+        /// <exception cref="NotSupportedException"></exception>
+        private static byte[] GetByteValue(byte valueTag, object value)
+        {
+            if (value is null)
+            { 
+                throw new InvalidOperationException("Null member value.");
+            }
+
+            switch (valueTag)
+            {
+                case (byte)AttributeHelper.ValueTag.Keyword:
+                case (byte)AttributeHelper.ValueTag.NameWithoutLanguage:
+                case (byte)AttributeHelper.ValueTag.TextWithoutLanguage:
+                case (byte)AttributeHelper.ValueTag.Uri:
+                    return (Encoding.UTF8.GetBytes((string)value));
+
+                case (byte)AttributeHelper.ValueTag.Integer:
+                    {
+                        int i = value is int iv ? iv : int.Parse(value.ToString());
+                        return (BitConverter.GetBytes(IPAddress.HostToNetworkOrder(i)));
+                    }
+
+                case (byte)AttributeHelper.ValueTag.Boolean:
+                    {
+                        bool b = value is bool bv ? bv : bool.Parse(value.ToString());
+                        return (new[] { b ? (byte)0x01 : (byte)0x00 });
+                    }
+
+                default:
+                    throw new NotSupportedException($"Unhandled valueTag 0x{valueTag:X2}");
+            }
+        }
+
+     
+
+        /// <summary>
+        /// InferType
+        /// 
+        /// Given a string value, try to infer the byte representation
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        static byte InferType(string value)
+        {
+            byte[] ba = new byte[1];
+            // Try to parse as integer
+            if (int.TryParse(value, out _))
+                return (byte)AttributeHelper.ValueTag.Integer;
+            else if ((value.ToLower() == "false") || (value.ToLower() == "true"))
+                return (byte)AttributeHelper.ValueTag.Boolean;
+            else if (Uri.IsWellFormedUriString(value, UriKind.Absolute))
+                return (byte)AttributeHelper.ValueTag.Uri;
+            else //punt to keyword
+                return 0x44;
+        }
 
         /// <summary>
         /// ParseCollectionString
         /// </summary>
-        /// <param name="collectionString"></param>
+        /// <param name="baseString"></param>
         /// <returns></returns>
-        private static List<(string name, object value)> ParseCollectionString(string collectionString)
+        public static CollectionAttribute ParseCollectionString(string baseString)
         {
-            var memberAttributes = new List<(string name, object value)>();
-            var regex = new Regex(@"\{([^{}]+)\}");
-            var matches = regex.Matches(collectionString);
+            CollectionAttribute ca = new CollectionAttribute();
+            //First strip off the opening and closing '{' and '}'
+            int pos = baseString.IndexOf('{');
+            pos++;
+            int end = baseString.LastIndexOf('}');
+            string input = baseString.Substring(pos, end - pos);
 
-            foreach (Match match in matches)
+            List<string> lstTemp =  SplitCollection(input);
+            foreach (var element in lstTemp)
             {
-                var parts = match.Groups[1].Value.Split(new[] { '=' }, 2);
-                if (parts.Length == 2)
+                MemberAttribute ma = new MemberAttribute();
+                ma.IsCollection = true; 
+                if (IsCollection(element))
                 {
-                    var name = parts[0].Trim();
-                    var value = parts[1].Trim();
-
-                    if (int.TryParse(value, out int intValue))
+                    CollectionItem ci = ParseCollection(element);
+                    ma.Name = ci.CollectionName;
+                    foreach (var item in ci.Items)
                     {
-                        memberAttributes.Add((name, intValue));
+                        Member member = new Member();
+                        member.Name = item.Key.ToString();
+                        member.Value = item.Value.ToString();
+                        member.ValueTag = InferType(item.Value.ToString());
+                        ma.Members.Add(member);
+                    }
+                }
+                else
+                {
+                    ma = getNonCollection(element);
+                }
+                ca.MemberAttributes.Add(ma);
+            }
+
+            return ca;
+        }
+
+        /// <summary>
+        /// IsCollection
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        private static bool IsCollection(string value)
+        {
+            int openCount = 0;
+            int closeCount = 0;
+
+            foreach (char c in value)
+            {
+                if (c == '{')
+                    openCount++;
+                else if (c == '}')
+                    closeCount++;
+            }
+
+            return ((openCount == closeCount) && (openCount >= 1));
+        }
+
+        /// <summary>
+        /// getNonCollection
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
+        public static MemberAttribute getNonCollection(string input)
+        {
+            string[] elements = input.Split('=');
+            MemberAttribute ma = new MemberAttribute();
+            ma.Name = elements[0];  
+            ma.Value = elements[1];
+            ma.ValueTag = InferType((string)elements[1]);
+            ma.IsCollection = false;
+            return ma;
+        }
+
+        
+        public static CollectionItem ParseCollection(string input)
+        {
+            var result = new CollectionItem();
+
+            if (string.IsNullOrWhiteSpace(input))
+                return result;
+
+            // Try to match "name={key=value,...}" format
+            var colMatch = Regex.Match(input, @"^([^\=]+)=\{(.+)\}$");
+            if (colMatch.Success)
+            {
+                result.CollectionName = colMatch.Groups[1].Value.Trim();
+                string content = colMatch.Groups[2].Value;
+
+                // Split by comma, but not inside braces
+                int depth = 0;
+                var sb = new System.Text.StringBuilder();
+                var pairs = new List<string>();
+                foreach (char c in content)
+                {
+                    if (c == '{') 
+                        depth++;
+                    if (c == '}') 
+                        depth--;
+                    if (c == ',' && depth == 0)
+                    {
+                        pairs.Add(sb.ToString());
+                        sb.Clear();
                     }
                     else
                     {
-                        memberAttributes.Add((name, value));
+                        sb.Append(c);
                     }
                 }
-            }
-            return memberAttributes;
-        }
-    }
+                if (sb.Length > 0)
+                    pairs.Add(sb.ToString());
 
+                foreach (var pair in pairs)
+                {
+                    var kv = pair.Split(new[] { '=' }, 2);
+                    if (kv.Length == 2)
+                    {
+                        result.Items.Add((kv[0].Trim(), kv[1].Trim()));
+                    }
+                }
+                return result;
+            }
+
+            // Try to match "name{key=value}{key=value}" format
+            var sizeMatch = Regex.Match(input, @"^([^\{]+)");
+            if (sizeMatch.Success)
+            {
+                result.CollectionName = sizeMatch.Groups[1].Value.Trim();
+                var itemMatches = Regex.Matches(input, @"\{([^=]+)=([^\}]+)\}");
+                foreach (Match m in itemMatches)
+                {
+                    result.Items.Add((m.Groups[1].Value.Trim(), m.Groups[2].Value.Trim()));
+                }
+            }
+
+            return result;
+        }
+
+       
+        public static List<string> SplitCollection(string input)
+        {
+            List<string> lstStrings = new List<string>();
+            //Look for the first ','
+            int pos = input.IndexOf(',');
+            if (pos == npos)
+                throw new Exception("Invalid Collection Composition");
+            else
+            {
+                lstStrings.Add(input.Substring(0, pos));
+                pos++;
+                lstStrings.Add(input.Substring(pos));
+            }
+           return lstStrings;
+        }
+
+
+        /// <summary>
+        ///  CreateCollectionAttribute
+        /// </summary>
+        /// <param name="attributeName"></param>
+        /// <param name="members"></param>
+        /// <returns></returns>
+        public static byte[] CreateOperationAttributeCollection(string attributeName, IEnumerable<(string memberName, byte memberValueTag, object memberValue)> members)
+        {
+            byte[] EndCollectionByteArray = new byte[] { (byte)AttributeHelper.ValueTag.EndCollection, 0x00, 0x00, 0x00, 0x00 };
+            byte[] ZeroLength = new byte[] { (byte)0x00, 0x00 };
+            var nameBytes = Encoding.UTF8.GetBytes(attributeName);
+
+            var CollBytes = new List<byte[]>();
+
+            CollBytes.Add(new[] { (byte)0x34 }); // begin-collection value-tag
+            CollBytes.Add(ToBigEndianBytes((ushort)nameBytes.Length));
+            CollBytes.Add(nameBytes);
+            CollBytes.Add(ZeroLength); // value-length MUST be 0x0000.
+             
+            foreach (var (memberName, memberValueTag, memberValue) in members)
+            {
+                // member-attr-name (0x4A) with name (memberName) as value, length = 0
+
+                var memberNameBytes = Encoding.UTF8.GetBytes(memberName);
+
+                CollBytes.Add(new[] { (byte)0x4A });    // member-attr-name
+                CollBytes.Add(ZeroLength);
+                CollBytes.Add(ToBigEndianBytes((ushort)memberNameBytes.Length));
+                CollBytes.Add(memberNameBytes);
+
+                // Member value: provide the tag and name length will be 0.
+                var valueBytes = GetByteValue(memberValueTag, memberValue);
+
+                CollBytes.Add(new[] { memberValueTag });
+                CollBytes.Add(ZeroLength);
+                CollBytes.Add(ToBigEndianBytes((ushort)valueBytes.Length));
+                CollBytes.Add(valueBytes);
+            } 
+
+            // End of collection
+            CollBytes.Add(EndCollectionByteArray);
+            return CollBytes.SelectMany(x => x).ToArray();
+        }
+
+    }
 
 }

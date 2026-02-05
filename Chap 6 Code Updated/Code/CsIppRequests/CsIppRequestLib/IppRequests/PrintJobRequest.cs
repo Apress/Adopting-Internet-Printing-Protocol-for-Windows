@@ -62,9 +62,9 @@ namespace CsIppRequestLib
             {
                 byte[] fileBytes = File.ReadAllBytes(m_sFileName);
                 string ext = GetMimeType(m_sFileName);
-                var docFormatAttribute = RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.MimeMediaType, "document-format", ext);
+                var docFormatAttribute = _RequestHelpers.CreatePrinterAttribute((byte)AttributeHelper.ValueTag.MimeMediaType, "document-format", ext);
                 //Create job attributes byte buffer
-                byte[] concatenatedArray = RequestHelpers.CreateJobAttributesByteArray(_jobAttributes);
+                byte[] concatenatedArray = _RequestHelpers.CreateJobAttributesByteArray(_jobAttributes);
 
                 m_bRequestPayload = m_bIppVersionAndOperationId
                    .Concat(m_bRequestId)

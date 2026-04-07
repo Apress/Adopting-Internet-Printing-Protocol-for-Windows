@@ -1,0 +1,8 @@
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 2\AddIppPrinter\AddIppPrinter\bin\Debug\AddIppPrinter.exe.config
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 2\AddIppPrinter\AddIppPrinter\bin\Debug\AddIppPrinter.exe
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 2\AddIppPrinter\AddIppPrinter\bin\Debug\AddIppPrinter.pdb
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 2\AddIppPrinter\AddIppPrinter\obj\Debug\AddIppPrinter.csproj.AssemblyReference.cache
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 2\AddIppPrinter\AddIppPrinter\obj\Debug\AddIppPrinter.exe.config
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 2\AddIppPrinter\AddIppPrinter\obj\Debug\AddIppPrinter.csproj.CoreCompileInputs.cache
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 2\AddIppPrinter\AddIppPrinter\obj\Debug\AddIppPrinter.exe
+D:\BACKUP\IPP Book\_Library Bug Fixes\Chap 2\AddIppPrinter\AddIppPrinter\obj\Debug\AddIppPrinter.pdb
